@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-07-31T07:40:35.540Z</updated>
+    <updated>2021-07-31T08:44:29.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,27 @@
         <link href="https://news.mydrivers.com/1/772/772862.htm"/>
         <updated>2021-07-30T05:46:27.085Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772862.htm"><em class="zhiding"></em>华为P50系列价格公布：顶配7488元、麒麟9000绝版！</a></span><span class="t">29日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9.9万硬刚领克03！国产新四门轿跑车来了：加速超高尔夫GTI]]></title>
+        <id>https://news.mydrivers.com/1/773/773251.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773251.htm"/>
+        <updated>2021-07-31T08:44:28.065Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773251.htm">9.9万硬刚领克03！国产新四门轿跑车来了：加速超高尔夫GTI</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月新增本土确诊病例328例 打完疫苗仍被感染？专家回应]]></title>
+        <id>https://news.mydrivers.com/1/773/773250.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773250.htm"/>
+        <updated>2021-07-31T08:44:28.067Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773250.htm">7月新增本土确诊病例328例 打完疫苗仍被感染？专家回应</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央视曝光：“鸿星尔克官方红包” 链接千万别点开]]></title>
+        <id>https://news.mydrivers.com/1/773/773249.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773249.htm"/>
+        <updated>2021-07-31T08:44:28.072Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773249.htm">央视曝光：“鸿星尔克官方红包” 链接千万别点开</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关爱爸妈健康 语音播报：可孚血压计39元好价包邮]]></title>
@@ -1665,27 +1686,6 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772901.htm">华为P50 Pro又拿个世界第一！美女们瞬间爱了</a></span><span class="t">30日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[只有4G的华为P50：还会那么香吗？一句话让人振奋]]></title>
-        <id>https://news.mydrivers.com/1/772/772900.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772900.htm"/>
-        <updated>2021-07-30T05:46:27.214Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772900.htm">只有4G的华为P50：还会那么香吗？一句话让人振奋</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel发布全新10nm 38核心！只敢欺负隔壁32核心]]></title>
-        <id>https://news.mydrivers.com/1/772/772899.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772899.htm"/>
-        <updated>2021-07-30T05:46:27.215Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772899.htm">Intel发布全新10nm 38核心！只敢欺负隔壁32核心</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P50：华为手机悲壮而又辉煌的挣扎]]></title>
-        <id>https://news.mydrivers.com/1/772/772898.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772898.htm"/>
-        <updated>2021-07-30T05:46:27.216Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772898.htm">P50：华为手机悲壮而又辉煌的挣扎</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[27亿打造“亲儿子” 经典品牌全新中文名来了]]></title>
         <id>https://news.mydrivers.com/1/773/773228.htm</id>
         <link href="https://news.mydrivers.com/1/773/773228.htm"/>
@@ -2442,6 +2442,13 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772888.htm">全球首发计算光学！华为P50系列突破光学镜头物理桎梏</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[7月新增本土确诊病例328例 打完疫苗仍被感染？专家回应]]></title>
+        <id>https://news.mydrivers.com/1/773/773250.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773250.htm"/>
+        <updated>2021-07-31T08:44:28.662Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773250.htm">7月新增本土确诊病例328例 打完疫苗仍被感染？专家回应</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[德尔塔毒株或导致更严重疾病：可通过接种疫苗的人传播]]></title>
         <id>https://news.mydrivers.com/1/773/773241.htm</id>
         <link href="https://news.mydrivers.com/1/773/773241.htm"/>
@@ -2813,24 +2820,24 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772872.htm">曾造成欧洲一半人口死亡！这种烈性传染病有新疫苗了</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[口水为什么是臭的？情侣接吻为啥闻不到？看完扎心了]]></title>
-        <id>https://news.mydrivers.com/1/772/772854.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772854.htm"/>
-        <updated>2021-07-30T05:46:27.267Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772854.htm">口水为什么是臭的？情侣接吻为啥闻不到？看完扎心了</a></span><span class="t">29日</span>]]></content>
+        <title type="html"><![CDATA[9.9万硬刚领克03！国产新四门轿跑车来了：加速超高尔夫GTI]]></title>
+        <id>https://news.mydrivers.com/1/773/773251.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773251.htm"/>
+        <updated>2021-07-31T08:44:28.757Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773251.htm">9.9万硬刚领克03！国产新四门轿跑车来了：加速超高尔夫GTI</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[内饰不再油腻！新大众途观L迎巨变：高功率EA888、7.7s破百]]></title>
         <id>https://news.mydrivers.com/1/773/773245.htm</id>
         <link href="https://news.mydrivers.com/1/773/773245.htm"/>
-        <updated>2021-07-31T07:40:35.349Z</updated>
+        <updated>2021-07-31T07:40:35.010Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773245.htm">内饰不再油腻！新大众途观L迎巨变：高功率EA888、7.7s破百</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14万买“小Macan”！长城新车预售：外观保时捷不敢信]]></title>
         <id>https://news.mydrivers.com/1/773/773243.htm</id>
         <link href="https://news.mydrivers.com/1/773/773243.htm"/>
-        <updated>2021-07-31T07:40:35.350Z</updated>
+        <updated>2021-07-31T07:40:35.010Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773243.htm">14万买“小Macan”！长城新车预售：外观保时捷不敢信</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
@@ -3191,11 +3198,11 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772779.htm">因暴雨汽车报废 买新车有补贴！郑州补贴办法公布</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[稳了！中国电池一哥登全球第一：比亚迪第四]]></title>
-        <id>https://news.mydrivers.com/1/772/772771.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772771.htm"/>
-        <updated>2021-07-30T05:46:27.358Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772771.htm">稳了！中国电池一哥登全球第一：比亚迪第四</a></span><span class="t">29日</span>]]></content>
+        <title type="html"><![CDATA[央视曝光：“鸿星尔克官方红包” 链接千万别点开]]></title>
+        <id>https://news.mydrivers.com/1/773/773249.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773249.htm"/>
+        <updated>2021-07-31T08:44:28.834Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773249.htm">央视曝光：“鸿星尔克官方红包” 链接千万别点开</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[不止骚扰女员工 暴雪丑闻闹大了：男员工办公室““击剑”]]></title>
@@ -3567,12 +3574,5 @@
         <link href="https://news.mydrivers.com/1/772/772816.htm"/>
         <updated>2021-07-30T05:46:27.325Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772816.htm">鸿星尔克非“国货”？揭开背后真相</a></span><span class="t">29日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鸿星尔克火爆全网！一位老师专门为其写歌：歌名感受下]]></title>
-        <id>https://news.mydrivers.com/1/772/772813.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772813.htm"/>
-        <updated>2021-07-30T05:46:27.328Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772813.htm">鸿星尔克火爆全网！一位老师专门为其写歌：歌名感受下</a></span><span class="t">29日</span>]]></content>
     </entry>
 </feed>
