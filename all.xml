@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yhf7952.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-31T05:40:41.838Z</updated>
+    <updated>2021-07-31T06:53:08.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Lili Marberg (Wikipedia — did you know?)]]></title>
@@ -75,6 +75,34 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772862.htm"><em class="zhiding"></em>华为P50系列价格公布：顶配7488元、麒麟9000绝版！</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[6个设备一起充！爱国者充电魔方24.9 元发车 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/773/773242.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773242.htm"/>
+        <updated>2021-07-31T06:53:07.339Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773242.htm"> 6个设备一起充！爱国者充电魔方24.9 元发车</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德尔塔毒株或导致更严重疾病：可通过接种疫苗的人传播 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/773/773241.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773241.htm"/>
+        <updated>2021-07-31T06:53:07.340Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773241.htm">德尔塔毒株或导致更严重疾病：可通过接种疫苗的人传播</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日检18万管！猎鹰号气膜实验室在南京投入使用 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/773/773240.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773240.htm"/>
+        <updated>2021-07-31T06:53:07.341Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773240.htm">日检18万管！猎鹰号气膜实验室在南京投入使用</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全面对标长城WEY/坦克家族！国产全新高端品牌来了 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/773/773239.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773239.htm"/>
+        <updated>2021-07-31T06:53:07.342Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773239.htm">全面对标长城WEY/坦克家族！国产全新高端品牌来了</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[黑寡妇诉讼内幕 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773238.htm</id>
         <link href="https://news.mydrivers.com/1/773/773238.htm"/>
@@ -89,11 +117,11 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773237.htm">不止骚扰女员工 暴雪丑闻闹大了：男员工办公室““击剑”</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[造车新势力首起事故致死！律师：蔚来强调电池安全是不负责 (快科技)]]></title>
+        <title type="html"><![CDATA[EC6碰撞起火致车主身亡！律师：蔚来强调电池安全是不负责 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773236.htm</id>
         <link href="https://news.mydrivers.com/1/773/773236.htm"/>
         <updated>2021-07-31T05:40:40.946Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773236.htm">造车新势力首起事故致死！律师：蔚来强调电池安全是不负责</a></span><span class="t">31日</span>]]></content>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773236.htm">EC6碰撞起火致车主身亡！律师：蔚来强调电池安全是不负责</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[官方通告：郑州开展全员核酸检测 非必要不离郑 (快科技)]]></title>
@@ -1713,38 +1741,10 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772895.htm">AMD股价历史性超100美元！不到5年 暴涨超13倍</a></span><span class="t">30日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[价格暴涨！小小的它供货最长达69周 国产替代加速 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/772/772894.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772894.htm"/>
-        <updated>2021-07-30T05:46:27.218Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772894.htm">价格暴涨！小小的它供货最长达69周 国产替代加速</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跳水的会不会游泳？田亮：不然呢？跳完用网捞么？ (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/772/772893.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772893.htm"/>
-        <updated>2021-07-30T05:46:27.224Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772893.htm">跳水的会不会游泳？田亮：不然呢？跳完用网捞么？</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本轮疫情出现前所未有的变化！官方提醒不要去这里 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/772/772892.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772892.htm"/>
-        <updated>2021-07-30T05:46:27.225Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772892.htm">本轮疫情出现前所未有的变化！官方提醒不要去这里</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持60W快充：努比亚C2C数据线12.9元两条 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/772/772891.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772891.htm"/>
-        <updated>2021-07-30T05:46:27.226Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772891.htm">支持60W快充：努比亚C2C数据线12.9元两条</a></span><span class="t">29日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[27亿打造“亲儿子” 经典品牌全新中文名来了 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773228.htm</id>
         <link href="https://news.mydrivers.com/1/773/773228.htm"/>
-        <updated>2021-07-31T05:40:41.282Z</updated>
+        <updated>2021-07-31T05:40:40.964Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773228.htm">27亿打造“亲儿子” 经典品牌全新中文名来了</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
@@ -2122,7 +2122,7 @@
         <title type="html"><![CDATA[超级快充！华为66W氮化镓充电器来了：首发379元 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773229.htm</id>
         <link href="https://news.mydrivers.com/1/773/773229.htm"/>
-        <updated>2021-07-31T05:40:41.342Z</updated>
+        <updated>2021-07-31T05:40:40.964Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773229.htm">超级快充！华为66W氮化镓充电器来了：首发379元</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
@@ -2497,17 +2497,31 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772888.htm">全球首发计算光学！华为P50系列突破光学镜头物理桎梏</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[德尔塔毒株或导致更严重疾病：可通过接种疫苗的人传播 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/773/773241.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773241.htm"/>
+        <updated>2021-07-31T06:53:07.795Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773241.htm">德尔塔毒株或导致更严重疾病：可通过接种疫苗的人传播</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日检18万管！猎鹰号气膜实验室在南京投入使用 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/773/773240.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773240.htm"/>
+        <updated>2021-07-31T06:53:07.796Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773240.htm">日检18万管！猎鹰号气膜实验室在南京投入使用</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[官方通告：郑州开展全员核酸检测 非必要不离郑 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773235.htm</id>
         <link href="https://news.mydrivers.com/1/773/773235.htm"/>
-        <updated>2021-07-31T05:40:41.409Z</updated>
+        <updated>2021-07-31T05:40:40.948Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773235.htm">官方通告：郑州开展全员核酸检测 非必要不离郑</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[德尔塔毒株全球肆虐！世卫组织发出警告：确诊病例将超2亿 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773230.htm</id>
         <link href="https://news.mydrivers.com/1/773/773230.htm"/>
-        <updated>2021-07-31T05:40:41.410Z</updated>
+        <updated>2021-07-31T05:40:40.963Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773230.htm">德尔塔毒株全球肆虐！世卫组织发出警告：确诊病例将超2亿 </a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
@@ -2861,25 +2875,18 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772854.htm">口水为什么是臭的？情侣接吻为啥闻不到？看完扎心了</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[男子家中沙发上惊现超大蜈蚣：长度超过20厘米 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/772/772848.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772848.htm"/>
-        <updated>2021-07-30T05:46:27.285Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772848.htm">男子家中沙发上惊现超大蜈蚣：长度超过20厘米</a></span><span class="t">29日</span>]]></content>
+        <title type="html"><![CDATA[全面对标长城WEY/坦克家族！国产全新高端品牌来了 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/773/773239.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773239.htm"/>
+        <updated>2021-07-31T06:53:07.881Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773239.htm">全面对标长城WEY/坦克家族！国产全新高端品牌来了</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国媒体：欧洲的新冠病毒来自美国！ (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/772/772834.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772834.htm"/>
-        <updated>2021-07-30T05:46:27.295Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772834.htm">美国媒体：欧洲的新冠病毒来自美国！</a></span><span class="t">29日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[造车新势力首起事故致死！律师：蔚来强调电池安全是不负责 (快科技)]]></title>
+        <title type="html"><![CDATA[EC6碰撞起火致车主身亡！律师：蔚来强调电池安全是不负责 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773236.htm</id>
         <link href="https://news.mydrivers.com/1/773/773236.htm"/>
-        <updated>2021-07-31T05:40:41.486Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773236.htm">造车新势力首起事故致死！律师：蔚来强调电池安全是不负责</a></span><span class="t">31日</span>]]></content>
+        <updated>2021-07-31T05:40:40.946Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773236.htm">EC6碰撞起火致车主身亡！律师：蔚来强调电池安全是不负责</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12306售票时间有变！出行更方便了 (快科技)]]></title>
@@ -3246,38 +3253,31 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772733.htm">业界大佬称在水里电动车比燃油车更安全：网友怒批</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉押注新型电池 分析师：中国又赢了 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/772/772729.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772729.htm"/>
-        <updated>2021-07-30T05:46:27.366Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772729.htm">特斯拉押注新型电池 分析师：中国又赢了</a></span><span class="t">29日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[不止骚扰女员工 暴雪丑闻闹大了：男员工办公室““击剑” (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773237.htm</id>
         <link href="https://news.mydrivers.com/1/773/773237.htm"/>
-        <updated>2021-07-31T05:40:41.572Z</updated>
+        <updated>2021-07-31T05:40:40.940Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773237.htm">不止骚扰女员工 暴雪丑闻闹大了：男员工办公室““击剑”</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[喝苦瓜水能抗癌？朋友圈十大谣言出炉 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773233.htm</id>
         <link href="https://news.mydrivers.com/1/773/773233.htm"/>
-        <updated>2021-07-31T05:40:41.573Z</updated>
+        <updated>2021-07-31T05:40:40.961Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773233.htm">喝苦瓜水能抗癌？朋友圈十大谣言出炉</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[救援队跑去救河南的水灾 结果网红们把救生艇都给偷了 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773232.htm</id>
         <link href="https://news.mydrivers.com/1/773/773232.htm"/>
-        <updated>2021-07-31T05:40:41.574Z</updated>
+        <updated>2021-07-31T05:40:40.961Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773232.htm">救援队跑去救河南的水灾 结果网红们把救生艇都给偷了</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[教育培训行业被封杀 一公司全体裁员？回应来了 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/773/773231.htm</id>
         <link href="https://news.mydrivers.com/1/773/773231.htm"/>
-        <updated>2021-07-31T05:40:41.575Z</updated>
+        <updated>2021-07-31T05:40:40.962Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773231.htm">教育培训行业被封杀 一公司全体裁员？回应来了</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
