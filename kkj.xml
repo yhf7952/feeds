@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-01T01:48:58.215Z</updated>
+    <updated>2021-08-01T02:51:31.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,41 @@
         <link href="https://news.mydrivers.com/1/773/773175.htm"/>
         <updated>2021-07-30T13:05:33.009Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773175.htm"><em class="zhiding"></em>AMD AM5插座首次曝光：玩家多年呼唤终于满足</a></span><span class="t">30日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[realme Flash官宣：安卓首款磁吸无线充电手机！]]></title>
+        <id>https://news.mydrivers.com/1/773/773309.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773309.htm"/>
+        <updated>2021-08-01T02:51:30.725Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773309.htm">realme Flash官宣：安卓首款磁吸无线充电手机！</a></span><span class="t">1日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《丛林奇航》票房成绩不俗]]></title>
+        <id>https://news.mydrivers.com/1/773/773308.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773308.htm"/>
+        <updated>2021-08-01T02:51:30.725Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773308.htm">《丛林奇航》票房成绩不俗</a></span><span class="t">1日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南连发136条气象预警！郑州等地仍有明显强对流]]></title>
+        <id>https://news.mydrivers.com/1/773/773307.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773307.htm"/>
+        <updated>2021-08-01T02:51:30.728Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773307.htm">河南连发136条气象预警！郑州等地仍有明显强对流</a></span><span class="t">1日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全省12123停用！河南：交警推出汛期便民利民十项举措]]></title>
+        <id>https://news.mydrivers.com/1/773/773306.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773306.htm"/>
+        <updated>2021-08-01T02:51:30.729Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773306.htm">全省12123停用！河南：交警推出汛期便民利民十项举措</a></span><span class="t">1日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫情扩散严重！我国新增多个本土病例 在这些地方]]></title>
+        <id>https://news.mydrivers.com/1/773/773305.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773305.htm"/>
+        <updated>2021-08-01T02:51:30.730Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773305.htm">疫情扩散严重！我国新增多个本土病例 在这些地方</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[邯郸突发大风 房屋顶棚被吹翻 行人趴地上避风：场面可怕]]></title>
@@ -1651,45 +1686,10 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772953.htm">骁龙870、2K/120Hz屏加持！小米平板5细节曝光</a></span><span class="t">30日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不止1亿像素！摩托罗拉新机官方剧透：拍照稳了]]></title>
-        <id>https://news.mydrivers.com/1/772/772952.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772952.htm"/>
-        <updated>2021-07-30T05:46:27.126Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772952.htm">不止1亿像素！摩托罗拉新机官方剧透：拍照稳了</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盾标变了！吉利版“沃尔沃”官宣：8.7万、内饰让人不敢信]]></title>
-        <id>https://news.mydrivers.com/1/772/772951.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772951.htm"/>
-        <updated>2021-07-30T05:46:27.127Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772951.htm">盾标变了！吉利版“沃尔沃”官宣：8.7万、内饰让人不敢信</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P50手机为何不支持5G？华为给出原因：听后心酸]]></title>
-        <id>https://news.mydrivers.com/1/772/772950.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772950.htm"/>
-        <updated>2021-07-30T05:46:27.128Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772950.htm">P50手机为何不支持5G？华为给出原因：听后心酸</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[269元！全新Redmi路由器开卖：3000兆级无线速率]]></title>
-        <id>https://news.mydrivers.com/1/772/772949.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772949.htm"/>
-        <updated>2021-07-30T05:46:27.129Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772949.htm">269元！全新Redmi路由器开卖：3000兆级无线速率</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曝iPhone 13已开始生产：四款小刘海机型！]]></title>
-        <id>https://news.mydrivers.com/1/772/772948.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772948.htm"/>
-        <updated>2021-07-30T05:46:27.130Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772948.htm">曝iPhone 13已开始生产：四款小刘海机型！</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用户最不愿看到事情发生！高端显卡要暴涨了 NV无奈]]></title>
         <id>https://news.mydrivers.com/1/773/773301.htm</id>
         <link href="https://news.mydrivers.com/1/773/773301.htm"/>
-        <updated>2021-08-01T01:48:57.694Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773301.htm">用户最不愿看到事情发生！高端显卡要暴涨了 NV无奈</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
@@ -1712,13 +1712,6 @@
         <link href="https://news.mydrivers.com/1/773/773228.htm"/>
         <updated>2021-07-31T05:40:40.964Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773228.htm">27亿打造“亲儿子” 经典品牌全新中文名来了</a></span><span class="t">31日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wi-Fi 6路由性价比新秀！Redmi AX3000评测：入手仅需249]]></title>
-        <id>https://news.mydrivers.com/1/773/773224.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773224.htm"/>
-        <updated>2021-07-31T03:47:16.159Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773224.htm">Wi-Fi 6路由性价比新秀！Redmi AX3000评测：入手仅需249</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星、台积电注意了！Intel抢走大客户：首发埃米工艺]]></title>
@@ -2064,17 +2057,31 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772277.htm">史上最详细工艺路线图发布！Intel CEO：再一次领先业界</a></span><span class="t">27日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[革命性材料 全新晶圆首发！便宜多了]]></title>
+        <id>https://news.mydrivers.com/1/772/772276.htm</id>
+        <link href="https://news.mydrivers.com/1/772/772276.htm"/>
+        <updated>2021-08-01T02:51:31.036Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772276.htm">革命性材料 全新晶圆首发！便宜多了</a></span><span class="t">27日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[realme Flash官宣：安卓首款磁吸无线充电手机！]]></title>
+        <id>https://news.mydrivers.com/1/773/773309.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773309.htm"/>
+        <updated>2021-08-01T02:51:31.036Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773309.htm">realme Flash官宣：安卓首款磁吸无线充电手机！</a></span><span class="t">1日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[安卓史上最强！骁龙898规格曝光：跑分破百万]]></title>
         <id>https://news.mydrivers.com/1/773/773303.htm</id>
         <link href="https://news.mydrivers.com/1/773/773303.htm"/>
-        <updated>2021-08-01T01:48:57.781Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773303.htm">安卓史上最强！骁龙898规格曝光：跑分破百万</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为5G芯片麒麟9000只能当4G用 为什么？原因大曝光！]]></title>
         <id>https://news.mydrivers.com/1/773/773298.htm</id>
         <link href="https://news.mydrivers.com/1/773/773298.htm"/>
-        <updated>2021-08-01T01:48:57.783Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773298.htm">华为5G芯片麒麟9000只能当4G用 为什么？原因大曝光！</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
@@ -2435,17 +2442,24 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772931.htm">小米手机再次超越苹果成全球第二 表现就一个字：猛！</a></span><span class="t">30日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重返影像巅峰！华为P50系列十问十答]]></title>
-        <id>https://news.mydrivers.com/1/772/772929.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772929.htm"/>
-        <updated>2021-07-30T05:46:27.156Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772929.htm">重返影像巅峰！华为P50系列十问十答</a></span><span class="t">30日</span>]]></content>
+        <title type="html"><![CDATA[河南连发136条气象预警！郑州等地仍有明显强对流]]></title>
+        <id>https://news.mydrivers.com/1/773/773307.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773307.htm"/>
+        <updated>2021-08-01T02:51:31.095Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773307.htm">河南连发136条气象预警！郑州等地仍有明显强对流</a></span><span class="t">1日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫情扩散严重！我国新增多个本土病例 在这些地方]]></title>
+        <id>https://news.mydrivers.com/1/773/773305.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773305.htm"/>
+        <updated>2021-08-01T02:51:31.096Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773305.htm">疫情扩散严重！我国新增多个本土病例 在这些地方</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[邯郸突发大风 房屋顶棚被吹翻 行人趴地上避风：场面可怕]]></title>
         <id>https://news.mydrivers.com/1/773/773304.htm</id>
         <link href="https://news.mydrivers.com/1/773/773304.htm"/>
-        <updated>2021-08-01T01:48:57.867Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773304.htm">邯郸突发大风 房屋顶棚被吹翻 行人趴地上避风：场面可怕</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
@@ -2806,31 +2820,17 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772908.htm">德尔塔毒株凶猛 美国疫情大反弹：感受下打疫苗有多拼</a></span><span class="t">30日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[注意！我国又新增1名本土确诊病例：已打过2针疫苗]]></title>
-        <id>https://news.mydrivers.com/1/772/772905.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772905.htm"/>
-        <updated>2021-07-30T05:46:27.212Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772905.htm">注意！我国又新增1名本土确诊病例：已打过2针疫苗</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我国目前疫情爆发地之一感染者不断增加：这传播细思极恐]]></title>
-        <id>https://news.mydrivers.com/1/772/772903.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772903.htm"/>
-        <updated>2021-07-30T05:46:27.213Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772903.htm">我国目前疫情爆发地之一感染者不断增加：这传播细思极恐</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大降2万！最便宜的比亚迪汉EV上新 续航远超特斯拉Model 3]]></title>
         <id>https://news.mydrivers.com/1/773/773302.htm</id>
         <link href="https://news.mydrivers.com/1/773/773302.htm"/>
-        <updated>2021-08-01T01:48:57.944Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773302.htm">大降2万！最便宜的比亚迪汉EV上新 续航远超特斯拉Model 3</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小鹏、海马汽车走向“分手”一步 海马汽车结局更惨]]></title>
         <id>https://news.mydrivers.com/1/773/773299.htm</id>
         <link href="https://news.mydrivers.com/1/773/773299.htm"/>
-        <updated>2021-08-01T01:48:57.946Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773299.htm">小鹏、海马汽车走向“分手”一步 海马汽车结局更惨</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
@@ -3198,24 +3198,31 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772829.htm">地平线征程5芯片打破特斯拉/NVIDIA垄断！首搭车型中国造</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[全省12123停用！河南：交警推出汛期便民利民十项举措]]></title>
+        <id>https://news.mydrivers.com/1/773/773306.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773306.htm"/>
+        <updated>2021-08-01T02:51:31.236Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773306.htm">全省12123停用！河南：交警推出汛期便民利民十项举措</a></span><span class="t">1日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小心鸿星尔克骗局！在微信群“发红包”骗刷单]]></title>
         <id>https://news.mydrivers.com/1/773/773300.htm</id>
         <link href="https://news.mydrivers.com/1/773/773300.htm"/>
-        <updated>2021-08-01T01:48:58.022Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773300.htm">小心鸿星尔克骗局！在微信群“发红包”骗刷单</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“端水大师”雷军第七次晒鞋：今天穿的老牌子！]]></title>
         <id>https://news.mydrivers.com/1/773/773297.htm</id>
         <link href="https://news.mydrivers.com/1/773/773297.htm"/>
-        <updated>2021-08-01T01:48:58.023Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773297.htm">“端水大师”雷军第七次晒鞋：今天穿的老牌子！</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[女排提前出局创队史最差成绩 郎平哽咽：余承东打气]]></title>
         <id>https://news.mydrivers.com/1/773/773296.htm</id>
         <link href="https://news.mydrivers.com/1/773/773296.htm"/>
-        <updated>2021-08-01T01:48:58.025Z</updated>
+        <updated>2021-08-01T01:48:57.377Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773296.htm">女排提前出局创队史最差成绩 郎平哽咽：余承东打气</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
@@ -3329,6 +3336,13 @@
         <link href="https://news.mydrivers.com/1/773/773227.htm"/>
         <updated>2021-07-31T03:47:16.154Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773227.htm">电商巨头因违反数据保护条例遭重罚：罚款高达57亿元</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wi-Fi 6路由性价比新秀！Redmi AX3000评测：入手仅需249]]></title>
+        <id>https://news.mydrivers.com/1/773/773224.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773224.htm"/>
+        <updated>2021-07-31T03:47:16.159Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773224.htm">Wi-Fi 6路由性价比新秀！Redmi AX3000评测：入手仅需249</a></span><span class="t">31日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克力挺Epic！苹果佣金就是全球互联网税]]></title>
@@ -3560,19 +3574,5 @@
         <link href="https://news.mydrivers.com/1/772/772937.htm"/>
         <updated>2021-07-30T05:46:27.147Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772937.htm">让猴子用意念打游戏！马斯克脑机接口公司融资13亿</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霸气反击！盖茨、贝佐斯“前妻”合力砸2.6亿：只为这件事]]></title>
-        <id>https://news.mydrivers.com/1/772/772924.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772924.htm"/>
-        <updated>2021-07-30T05:46:27.161Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/772/772924.htm">霸气反击！盖茨、贝佐斯“前妻”合力砸2.6亿：只为这件事</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家队减持国产千亿芯片巨头 已套现40亿]]></title>
-        <id>https://news.mydrivers.com/1/772/772917.htm</id>
-        <link href="https://news.mydrivers.com/1/772/772917.htm"/>
-        <updated>2021-07-30T05:46:27.195Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772917.htm">国家队减持国产千亿芯片巨头 已套现40亿</a></span><span class="t">30日</span>]]></content>
     </entry>
 </feed>
