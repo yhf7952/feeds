@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-01T17:02:56.293Z</updated>
+    <updated>2021-08-01T17:44:42.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://news.mydrivers.com/1/773/773224.htm"/>
         <updated>2021-07-31T03:47:16.159Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773224.htm"><em class="zhiding"></em>Wi-Fi 6路由性价比新秀！Redmi AX3000评测：入手仅需249</a></span><span class="t">31日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴亦凡网络水军简直疯了！腾讯重拳出击]]></title>
+        <id>https://news.mydrivers.com/1/773/773376.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773376.htm"/>
+        <updated>2021-08-01T17:44:41.338Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773376.htm">吴亦凡网络水军简直疯了！腾讯重拳出击</a></span><span class="t">2日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IE已死 但网站只兼容IE？一招搞定]]></title>
@@ -1679,31 +1686,24 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773039.htm">小米达成梦幻般成就！雷军为10位功勋颁奖：授予纯金名片</a></span><span class="t">30日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大爷掰手机电池致其起火 工作人员迅速救场]]></title>
-        <id>https://news.mydrivers.com/1/773/773038.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773038.htm"/>
-        <updated>2021-07-30T08:35:22.436Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773038.htm">大爷掰手机电池致其起火 工作人员迅速救场</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel 12代16核心24线程走光：3GHz却这么彪悍]]></title>
         <id>https://news.mydrivers.com/1/773/773370.htm</id>
         <link href="https://news.mydrivers.com/1/773/773370.htm"/>
-        <updated>2021-08-01T17:02:55.850Z</updated>
+        <updated>2021-08-01T17:02:55.422Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773370.htm">Intel 12代16核心24线程走光：3GHz却这么彪悍</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zen3命还很硬！史上最最奢华的AMD板子登场]]></title>
         <id>https://news.mydrivers.com/1/773/773365.htm</id>
         <link href="https://news.mydrivers.com/1/773/773365.htm"/>
-        <updated>2021-08-01T17:02:55.851Z</updated>
+        <updated>2021-08-01T17:02:55.432Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773365.htm">Zen3命还很硬！史上最最奢华的AMD板子登场</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[可爱单风扇！AMD RDNA2家族第一次有了ITX迷你卡]]></title>
         <id>https://news.mydrivers.com/1/773/773355.htm</id>
         <link href="https://news.mydrivers.com/1/773/773355.htm"/>
-        <updated>2021-08-01T17:02:55.851Z</updated>
+        <updated>2021-08-01T17:02:55.507Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773355.htm">可爱单风扇！AMD RDNA2家族第一次有了ITX迷你卡</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
@@ -2445,21 +2445,21 @@
         <title type="html"><![CDATA[南京疫情扩散源头：来自莫斯科的CA910航班曾落地郑州]]></title>
         <id>https://news.mydrivers.com/1/773/773373.htm</id>
         <link href="https://news.mydrivers.com/1/773/773373.htm"/>
-        <updated>2021-08-01T17:02:55.969Z</updated>
+        <updated>2021-08-01T17:02:55.417Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773373.htm">南京疫情扩散源头：来自莫斯科的CA910航班曾落地郑州</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[钟南山：新冠的“密切接触者”变了！]]></title>
         <id>https://news.mydrivers.com/1/773/773368.htm</id>
         <link href="https://news.mydrivers.com/1/773/773368.htm"/>
-        <updated>2021-08-01T17:02:55.970Z</updated>
+        <updated>2021-08-01T17:02:55.425Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773368.htm">钟南山：新冠的“密切接触者”变了！</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[目前最强新冠病毒太强：我国疫情感染者激增！专家发话]]></title>
         <id>https://news.mydrivers.com/1/773/773357.htm</id>
         <link href="https://news.mydrivers.com/1/773/773357.htm"/>
-        <updated>2021-08-01T17:02:55.971Z</updated>
+        <updated>2021-08-01T17:02:55.503Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773357.htm">目前最强新冠病毒太强：我国疫情感染者激增！专家发话</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
@@ -3198,59 +3198,66 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/772/772883.htm">特斯拉开三年保值率超9成卖出！雷克萨斯直呼内行</a></span><span class="t">29日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴亦凡网络水军简直疯了！腾讯重拳出击]]></title>
+        <id>https://news.mydrivers.com/1/773/773376.htm</id>
+        <link href="https://news.mydrivers.com/1/773/773376.htm"/>
+        <updated>2021-08-01T17:44:41.934Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773376.htm">吴亦凡网络水军简直疯了！腾讯重拳出击</a></span><span class="t">2日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[吴亦凡被刑拘：大V禁言、990个违规账号永久关闭]]></title>
         <id>https://news.mydrivers.com/1/773/773374.htm</id>
         <link href="https://news.mydrivers.com/1/773/773374.htm"/>
-        <updated>2021-08-01T17:02:56.090Z</updated>
+        <updated>2021-08-01T17:02:55.414Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773374.htm">吴亦凡被刑拘：大V禁言、990个违规账号永久关闭</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[女网红化妆技术超神火了 秒变各种女明星：美如画！]]></title>
         <id>https://news.mydrivers.com/1/773/773371.htm</id>
         <link href="https://news.mydrivers.com/1/773/773371.htm"/>
-        <updated>2021-08-01T17:02:56.091Z</updated>
+        <updated>2021-08-01T17:02:55.420Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773371.htm">女网红化妆技术超神火了 秒变各种女明星：美如画！</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苏炳添男子百米创造历史！刘翔祝贺、国外网友被震撼]]></title>
         <id>https://news.mydrivers.com/1/773/773367.htm</id>
         <link href="https://news.mydrivers.com/1/773/773367.htm"/>
-        <updated>2021-08-01T17:02:56.092Z</updated>
+        <updated>2021-08-01T17:02:55.429Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773367.htm">苏炳添男子百米创造历史！刘翔祝贺、国外网友被震撼</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[创历史！苏炳添男子百米出炉 亚洲飞人决赛表现感受下]]></title>
         <id>https://news.mydrivers.com/1/773/773364.htm</id>
         <link href="https://news.mydrivers.com/1/773/773364.htm"/>
-        <updated>2021-08-01T17:02:56.093Z</updated>
+        <updated>2021-08-01T17:02:55.434Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773364.htm">创历史！苏炳添男子百米出炉 亚洲飞人决赛表现感受下</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[国人打造的最火比特币交易平台：在海外被禁了]]></title>
         <id>https://news.mydrivers.com/1/773/773361.htm</id>
         <link href="https://news.mydrivers.com/1/773/773361.htm"/>
-        <updated>2021-08-01T17:02:56.093Z</updated>
+        <updated>2021-08-01T17:02:55.473Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773361.htm">国人打造的最火比特币交易平台：在海外被禁了</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[吴亦凡被拘 多名曾为其发声微博大V账号遭禁言：有人已道歉]]></title>
         <id>https://news.mydrivers.com/1/773/773360.htm</id>
         <link href="https://news.mydrivers.com/1/773/773360.htm"/>
-        <updated>2021-08-01T17:02:56.094Z</updated>
+        <updated>2021-08-01T17:02:55.479Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773360.htm">吴亦凡被拘 多名曾为其发声微博大V账号遭禁言：有人已道歉</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国第一人！苏炳添9秒83破亚洲纪录 对比博尔特感受下]]></title>
         <id>https://news.mydrivers.com/1/773/773358.htm</id>
         <link href="https://news.mydrivers.com/1/773/773358.htm"/>
-        <updated>2021-08-01T17:02:56.098Z</updated>
+        <updated>2021-08-01T17:02:55.483Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773358.htm">中国第一人！苏炳添9秒83破亚洲纪录 对比博尔特感受下</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[字节跳动今日起正式取消大小周：已实施8年]]></title>
         <id>https://news.mydrivers.com/1/773/773356.htm</id>
         <link href="https://news.mydrivers.com/1/773/773356.htm"/>
-        <updated>2021-08-01T17:02:56.099Z</updated>
+        <updated>2021-08-01T17:02:55.505Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773356.htm">字节跳动今日起正式取消大小周：已实施8年</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
@@ -3567,12 +3574,5 @@
         <link href="https://news.mydrivers.com/1/773/773106.htm"/>
         <updated>2021-07-30T10:44:19.073Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773106.htm">ChinaJoy 2021首日ShowGirl合集：小姐姐们清凉养眼</a></span><span class="t">30日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刘德华抖音直播不让刷礼物！观看人数爆满]]></title>
-        <id>https://news.mydrivers.com/1/773/773099.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773099.htm"/>
-        <updated>2021-07-30T10:44:19.078Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773099.htm">刘德华抖音直播不让刷礼物！观看人数爆满</a></span><span class="t">30日</span>]]></content>
     </entry>
 </feed>
