@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-08-02T07:44:07.637Z</updated>
+    <updated>2021-08-02T09:46:45.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Marthe_Yankurije</id>
         <link href="https://en.wikipedia.org/wiki/Marthe_Yankurije"/>
         <updated>2021-08-02T01:42:36.910Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Marthe_Yankurije" title="Marthe Yankurije">Marthe Yankurije</a></b>, who dropped out of school during her fourth year of <a href="/wiki/Secondary_school" title="Secondary school">secondary school</a>, will <a href="/wiki/Athletics_at_the_2020_Summer_Olympics_%E2%80%93_Women%27s_5000_metres" title="Athletics at the 2020 Summer Olympics – Women's 5000 metres">compete at the 2020 Summer Olympics</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Marthe_Yankurije" title="Marthe Yankurije">Marthe Yankurije</a></b>, who dropped out of school during her fourth year of secondary school, <a href="/wiki/Athletics_at_the_2020_Summer_Olympics_%E2%80%93_Women%27s_5000_metres" title="Athletics at the 2020 Summer Olympics – Women's 5000 metres">competed at the 2020 Summer Olympics</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[53 West 53rd Street]]></title>
@@ -59,6 +59,6 @@
         <id>https://en.wikipedia.org/wiki/Joseph_Holland_(actor)</id>
         <link href="https://en.wikipedia.org/wiki/Joseph_Holland_(actor)"/>
         <updated>2021-08-02T01:42:36.911Z</updated>
-        <content type="html"><![CDATA[... that actor <b><a href="/wiki/Joseph_Holland_(actor)" title="Joseph Holland (actor)">Joseph Holland</a></b> was accidentally stabbed and seriously wounded by <a href="/wiki/Orson_Welles" title="Orson Welles">Orson Welles</a>, wielding a steel knife, during a 1937 Broadway production of Shakespeare's <i><a href="/wiki/Julius_Caesar_(play)" title="Julius Caesar (play)">Julius Caesar</a></i>?]]></content>
+        <content type="html"><![CDATA[... that actor <b><a href="/wiki/Joseph_Holland_(actor)" title="Joseph Holland (actor)">Joseph Holland</a></b> was accidentally stabbed and seriously wounded by <a href="/wiki/Orson_Welles" title="Orson Welles">Orson Welles</a>, wielding a steel knife, during a 1937 Broadway production of Shakespeare's <i><a href="/wiki/Julius_Caesar_(play)" title="Julius Caesar (play)">Julius Caesar</a></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
 </feed>
