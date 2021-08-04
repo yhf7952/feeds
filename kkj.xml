@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-04T22:42:38.605Z</updated>
+    <updated>2021-08-04T23:42:29.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,48 @@
         <link href="https://news.mydrivers.com/1/773/773887.htm"/>
         <updated>2021-08-03T13:48:40.088Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773887.htm"><em class="zhiding"></em>锐龙7 5700G首发评测：性能飞升、功耗更惊喜</a></span><span class="t">3日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌旗舰手机用上自家Soc！价格太贵了]]></title>
+        <id>https://news.mydrivers.com/1/774/774186.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774186.htm"/>
+        <updated>2021-08-04T23:42:29.045Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774186.htm">谷歌旗舰手机用上自家Soc！价格太贵了</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好莱坞美女明星传记片遭殃：尺度大到让人难接受]]></title>
+        <id>https://news.mydrivers.com/1/774/774185.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774185.htm"/>
+        <updated>2021-08-04T23:42:29.045Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774185.htm">好莱坞美女明星传记片遭殃：尺度大到让人难接受</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD股价已两倍于Intel：当年7美元抄底的笑出声]]></title>
+        <id>https://news.mydrivers.com/1/774/774184.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774184.htm"/>
+        <updated>2021-08-04T23:42:29.057Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774184.htm">AMD股价已两倍于Intel：当年7美元抄底的笑出声</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微博CEO给《王者荣耀》提建议：这功能没必要]]></title>
+        <id>https://news.mydrivers.com/1/774/774183.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774183.htm"/>
+        <updated>2021-08-04T23:42:29.057Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774183.htm">微博CEO给《王者荣耀》提建议：这功能没必要</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不可思议！这是全球薪酬最高的人：日进1.2亿元]]></title>
+        <id>https://news.mydrivers.com/1/774/774182.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774182.htm"/>
+        <updated>2021-08-04T23:42:29.070Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774182.htm">不可思议！这是全球薪酬最高的人：日进1.2亿元</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军晒出MIX系列一代经典神机！个人最喜欢]]></title>
+        <id>https://news.mydrivers.com/1/774/774181.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774181.htm"/>
+        <updated>2021-08-04T23:42:29.080Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774181.htm">雷军晒出MIX系列一代经典神机！个人最喜欢</a></span><span class="t">5日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我国不少地区新冠疫情复发：感受下最强病毒威力]]></title>
@@ -1644,48 +1686,6 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773879.htm">拯救iPhone电池衰减！这几个实用技巧你必须知道</a></span><span class="t">3日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[实时监考！亚马逊开发AI摄像头“新玩法” 决定驾驶员薪酬]]></title>
-        <id>https://news.mydrivers.com/1/773/773878.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773878.htm"/>
-        <updated>2021-08-03T13:06:38.679Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773878.htm">实时监考！亚马逊开发AI摄像头“新玩法” 决定驾驶员薪酬</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000亿！阿里创了中国企业的新纪录]]></title>
-        <id>https://news.mydrivers.com/1/773/773877.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773877.htm"/>
-        <updated>2021-08-03T13:06:38.703Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773877.htm">1000亿！阿里创了中国企业的新纪录</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未成年玩游戏将被限！网易互联网整治行动来了]]></title>
-        <id>https://news.mydrivers.com/1/773/773876.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773876.htm"/>
-        <updated>2021-08-03T13:06:38.705Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773876.htm">未成年玩游戏将被限！网易互联网整治行动来了</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杀疯了 视频网站年卡3折发车：不到6元/月]]></title>
-        <id>https://news.mydrivers.com/1/773/773875.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773875.htm"/>
-        <updated>2021-08-03T13:06:38.706Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773875.htm">杀疯了 视频网站年卡3折发车：不到6元/月</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首款多主摄骁龙888 Plus旗舰！曝荣耀Magic3开启线下预定]]></title>
-        <id>https://news.mydrivers.com/1/773/773873.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773873.htm"/>
-        <updated>2021-08-03T13:06:38.708Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773873.htm">首款多主摄骁龙888 Plus旗舰！曝荣耀Magic3开启线下预定</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉CyberTruck未上市吸金超1亿美元 订单量太疯狂]]></title>
-        <id>https://news.mydrivers.com/1/773/773872.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773872.htm"/>
-        <updated>2021-08-03T11:40:46.022Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773872.htm">特斯拉CyberTruck未上市吸金超1亿美元 订单量太疯狂</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[王思聪组装了一台百万元电脑：64核心128线程 跑分世界第四]]></title>
         <id>https://news.mydrivers.com/1/774/774175.htm</id>
         <link href="https://news.mydrivers.com/1/774/774175.htm"/>
@@ -2064,6 +2064,20 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773325.htm">首超苹果 华为拿下中国笔记本行业顾客最满意品牌</a></span><span class="t">1日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[谷歌旗舰手机用上自家Soc！价格太贵了]]></title>
+        <id>https://news.mydrivers.com/1/774/774186.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774186.htm"/>
+        <updated>2021-08-04T23:42:29.459Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774186.htm">谷歌旗舰手机用上自家Soc！价格太贵了</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军晒出MIX系列一代经典神机！个人最喜欢]]></title>
+        <id>https://news.mydrivers.com/1/774/774181.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774181.htm"/>
+        <updated>2021-08-04T23:42:29.460Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774181.htm">雷军晒出MIX系列一代经典神机！个人最喜欢</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小米MIX 4蓄势待发！官方回顾历代MIX系列]]></title>
         <id>https://news.mydrivers.com/1/774/774151.htm</id>
         <link href="https://news.mydrivers.com/1/774/774151.htm"/>
@@ -2428,24 +2442,10 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773770.htm">雷军泄密！MIUI 13发布时间确定了</a></span><span class="t">3日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米获得“XIAOMI”商标转让：系日本大师百万设计LOGO之一]]></title>
-        <id>https://news.mydrivers.com/1/773/773745.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773745.htm"/>
-        <updated>2021-08-03T04:53:07.988Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773745.htm">小米获得“XIAOMI”商标转让：系日本大师百万设计LOGO之一</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家喻户晓的国产品牌已退场！系统仍更新：安卓11都安排上了]]></title>
-        <id>https://news.mydrivers.com/1/773/773739.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773739.htm"/>
-        <updated>2021-08-03T04:53:08.011Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773739.htm">家喻户晓的国产品牌已退场！系统仍更新：安卓11都安排上了</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我国不少地区新冠疫情复发：感受下最强病毒威力]]></title>
         <id>https://news.mydrivers.com/1/774/774180.htm</id>
         <link href="https://news.mydrivers.com/1/774/774180.htm"/>
-        <updated>2021-08-04T22:42:38.284Z</updated>
+        <updated>2021-08-04T22:42:37.915Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774180.htm">我国不少地区新冠疫情复发：感受下最强病毒威力</a></span><span class="t">5日</span>]]></content>
     </entry>
     <entry>
@@ -3198,10 +3198,24 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773652.htm">暖心！河南暴雨期间受损车辆ETC免费换</a></span><span class="t">2日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AMD股价已两倍于Intel：当年7美元抄底的笑出声]]></title>
+        <id>https://news.mydrivers.com/1/774/774184.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774184.htm"/>
+        <updated>2021-08-04T23:42:29.579Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774184.htm">AMD股价已两倍于Intel：当年7美元抄底的笑出声</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不可思议！这是全球薪酬最高的人：日进1.2亿元]]></title>
+        <id>https://news.mydrivers.com/1/774/774182.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774182.htm"/>
+        <updated>2021-08-04T23:42:29.580Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774182.htm">不可思议！这是全球薪酬最高的人：日进1.2亿元</a></span><span class="t">5日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我国23年前的科幻小说神预言苏炳添决赛：画面真神了]]></title>
         <id>https://news.mydrivers.com/1/774/774178.htm</id>
         <link href="https://news.mydrivers.com/1/774/774178.htm"/>
-        <updated>2021-08-04T22:42:38.406Z</updated>
+        <updated>2021-08-04T22:42:37.916Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774178.htm">我国23年前的科幻小说神预言苏炳添决赛：画面真神了</a></span><span class="t">5日</span>]]></content>
     </entry>
     <entry>
@@ -3560,19 +3574,5 @@
         <link href="https://news.mydrivers.com/1/773/773881.htm"/>
         <updated>2021-08-03T13:06:38.679Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773881.htm">5G不够用 华为5.5G要来了：10倍以上提升</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实时监考！亚马逊开发AI摄像头“新玩法” 决定驾驶员薪酬]]></title>
-        <id>https://news.mydrivers.com/1/773/773878.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773878.htm"/>
-        <updated>2021-08-03T13:06:38.679Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/773/773878.htm">实时监考！亚马逊开发AI摄像头“新玩法” 决定驾驶员薪酬</a></span><span class="t">3日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000亿！阿里创了中国企业的新纪录]]></title>
-        <id>https://news.mydrivers.com/1/773/773877.htm</id>
-        <link href="https://news.mydrivers.com/1/773/773877.htm"/>
-        <updated>2021-08-03T13:06:38.703Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773877.htm">1000亿！阿里创了中国企业的新纪录</a></span><span class="t">3日</span>]]></content>
     </entry>
 </feed>
