@@ -2,22 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-07T14:40:29.326Z</updated>
+    <updated>2021-08-07T17:02:24.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Intel独立显卡实测成绩出炉：很振奋！]]></title>
-        <id>https://news.mydrivers.com/1/774/774710.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774710.htm"/>
-        <updated>2021-08-06T17:05:31.155Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774710.htm"><em class="zhiding"></em>Intel独立显卡实测成绩出炉：很振奋！</a></span><span class="t">6日</span>]]></content>
+        <title type="html"><![CDATA[消息称滴滴数据让给第三方、要退市：官方回应来了！]]></title>
+        <id>https://news.mydrivers.com/1/774/774736.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774736.htm"/>
+        <updated>2021-08-07T03:46:53.075Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774736.htm"><em class="zhiding"></em>消息称滴滴数据让给第三方、要退市：官方回应来了！</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传华为又一核心业务被迫卖掉！内部人士曝真相]]></title>
-        <id>https://news.mydrivers.com/1/774/774533.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774533.htm"/>
-        <updated>2021-08-06T05:40:48.211Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774533.htm"><em class="zhiding"></em>传华为又一核心业务被迫卖掉！内部人士曝真相</a></span><span class="t">6日</span>]]></content>
+        <title type="html"><![CDATA[首发骁龙888+！小米MIX 4渲染图曝光：全陶瓷、潜望三摄]]></title>
+        <id>https://news.mydrivers.com/1/774/774719.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774719.htm"/>
+        <updated>2021-08-07T01:36:10.071Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774719.htm"><em class="zhiding"></em>首发骁龙888+！小米MIX 4渲染图曝光：全陶瓷、潜望三摄</a></span><span class="t">7日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首发安卓阵营最强U！小米最强大的旗舰开启预售]]></title>
+        <id>https://news.mydrivers.com/1/774/774800.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774800.htm"/>
+        <updated>2021-08-07T17:02:23.667Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774800.htm">首发安卓阵营最强U！小米最强大的旗舰开启预售</a></span><span class="t">7日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里回应“女员工被侵害”：决不容忍 涉嫌员工已停职调查]]></title>
+        <id>https://news.mydrivers.com/1/774/774799.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774799.htm"/>
+        <updated>2021-08-07T17:02:23.670Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774799.htm">阿里回应“女员工被侵害”：决不容忍 涉嫌员工已停职调查</a></span><span class="t">7日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德尔塔病毒有多强：郑州1确诊病例前7次核酸都为阴性]]></title>
+        <id>https://news.mydrivers.com/1/774/774798.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774798.htm"/>
+        <updated>2021-08-07T17:02:23.673Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774798.htm">德尔塔病毒有多强：郑州1确诊病例前7次核酸都为阴性</a></span><span class="t">7日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为鸿蒙OS稳了！成为第三大OS指日可待]]></title>
+        <id>https://news.mydrivers.com/1/774/774797.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774797.htm"/>
+        <updated>2021-08-07T17:02:23.676Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774797.htm">华为鸿蒙OS稳了！成为第三大OS指日可待</a></span><span class="t">7日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米全新OS即将登场！平板专属]]></title>
+        <id>https://news.mydrivers.com/1/774/774796.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774796.htm"/>
+        <updated>2021-08-07T17:02:23.677Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774796.htm">小米全新OS即将登场！平板专属</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Win11：新一代游戏神器]]></title>
@@ -433,13 +468,6 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774737.htm">林书豪确诊感染新冠：刚从旧金山飞抵上海 在美国打了疫苗</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[消息称滴滴数据让给第三方、要退市：官方回应来了！]]></title>
-        <id>https://news.mydrivers.com/1/774/774736.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774736.htm"/>
-        <updated>2021-08-07T03:46:53.075Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774736.htm">消息称滴滴数据让给第三方、要退市：官方回应来了！</a></span><span class="t">7日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[郑州一护士感染后参加800人聚会引恐慌：官方公布真相]]></title>
         <id>https://news.mydrivers.com/1/774/774735.htm</id>
         <link href="https://news.mydrivers.com/1/774/774735.htm"/>
@@ -552,13 +580,6 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774720.htm">路上赛摩托！外卖电动车为何能骑这么快？一个操作速度翻倍</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[首发骁龙888+！小米MIX 4渲染图曝光：全陶瓷、潜望三摄]]></title>
-        <id>https://news.mydrivers.com/1/774/774719.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774719.htm"/>
-        <updated>2021-08-07T01:36:10.071Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774719.htm">首发骁龙888+！小米MIX 4渲染图曝光：全陶瓷、潜望三摄</a></span><span class="t">7日</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[奥运节目遭盗版 央视谴责：侵权盗版者将付出沉重代价]]></title>
         <id>https://news.mydrivers.com/1/774/774718.htm</id>
         <link href="https://news.mydrivers.com/1/774/774718.htm"/>
@@ -613,6 +634,13 @@
         <link href="https://news.mydrivers.com/1/774/774711.htm"/>
         <updated>2021-08-06T17:05:31.154Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774711.htm">显卡第一神软重磅更新！ATI上古核心被翻牌、中文更友好</a></span><span class="t">6日</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel独立显卡实测成绩出炉：很振奋！]]></title>
+        <id>https://news.mydrivers.com/1/774/774710.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774710.htm"/>
+        <updated>2021-08-06T17:05:31.155Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774710.htm">Intel独立显卡实测成绩出炉：很振奋！</a></span><span class="t">6日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[失踪三年之后 小米平板微博账号终于找回来了]]></title>
@@ -1364,6 +1392,13 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774534.htm">涨疯了！部分芯片涨价100倍：一年才能交货</a></span><span class="t">6日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[传华为又一核心业务被迫卖掉！内部人士曝真相]]></title>
+        <id>https://news.mydrivers.com/1/774/774533.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774533.htm"/>
+        <updated>2021-08-06T05:40:48.211Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774533.htm">传华为又一核心业务被迫卖掉！内部人士曝真相</a></span><span class="t">6日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[分布式能力更完善！全新OpenHarmony发布]]></title>
         <id>https://news.mydrivers.com/1/774/774532.htm</id>
         <link href="https://news.mydrivers.com/1/774/774532.htm"/>
@@ -1649,41 +1684,6 @@
         <link href="https://news.mydrivers.com/1/774/774487.htm"/>
         <updated>2021-08-06T02:48:04.585Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774487.htm">鸿蒙开发者破120万！超4000万用户喜提鸿蒙OS</a></span><span class="t">6日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时隔三年！新一代小米平板终于上架了]]></title>
-        <id>https://news.mydrivers.com/1/774/774486.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774486.htm"/>
-        <updated>2021-08-06T02:48:04.585Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774486.htm">时隔三年！新一代小米平板终于上架了</a></span><span class="t">6日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《Back 4 Blood》Beta测试启动]]></title>
-        <id>https://news.mydrivers.com/1/774/774485.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774485.htm"/>
-        <updated>2021-08-06T02:48:04.586Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774485.htm">《Back 4 Blood》Beta测试启动</a></span><span class="t">6日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全季酒店裸男凌晨闯入女顾客房间 监控太惊悚 当事人发声]]></title>
-        <id>https://news.mydrivers.com/1/774/774484.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774484.htm"/>
-        <updated>2021-08-06T02:48:04.587Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774484.htm">全季酒店裸男凌晨闯入女顾客房间 监控太惊悚 当事人发声</a></span><span class="t">6日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[定了！小米平板5官宣：8月10日发布]]></title>
-        <id>https://news.mydrivers.com/1/774/774482.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774482.htm"/>
-        <updated>2021-08-06T02:48:04.588Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774482.htm">定了！小米平板5官宣：8月10日发布</a></span><span class="t">6日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[性能碾压11代i7 7nm Zen3锐龙新品来了：BIOS大升级]]></title>
-        <id>https://news.mydrivers.com/1/774/774481.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774481.htm"/>
-        <updated>2021-08-06T02:48:04.589Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774481.htm">性能碾压11代i7 7nm Zen3锐龙新品来了：BIOS大升级</a></span><span class="t">6日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021年9月底 我们能不能原价买到显卡？]]></title>
@@ -2064,17 +2064,24 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/773/773926.htm">扣肉架构以来最大升级 Intel 17代酷睿曝光：IPC大涨50%</a></span><span class="t">4日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[首发安卓阵营最强U！小米最强大的旗舰开启预售]]></title>
+        <id>https://news.mydrivers.com/1/774/774800.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774800.htm"/>
+        <updated>2021-08-07T17:02:23.949Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774800.htm">首发安卓阵营最强U！小米最强大的旗舰开启预售</a></span><span class="t">7日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Redmi K40降价！12+256G性价比更高了]]></title>
         <id>https://news.mydrivers.com/1/774/774793.htm</id>
         <link href="https://news.mydrivers.com/1/774/774793.htm"/>
-        <updated>2021-08-07T14:40:29.017Z</updated>
+        <updated>2021-08-07T14:40:28.711Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774793.htm">Redmi K40降价！12+256G性价比更高了</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米MIX4未发先火！京东天猫预约量爆表]]></title>
         <id>https://news.mydrivers.com/1/774/774792.htm</id>
         <link href="https://news.mydrivers.com/1/774/774792.htm"/>
-        <updated>2021-08-07T14:40:29.018Z</updated>
+        <updated>2021-08-07T14:40:28.711Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774792.htm">小米MIX4未发先火！京东天猫预约量爆表</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
@@ -2435,11 +2442,11 @@
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774468.htm">全球唯一一台！绝版一加9 Pro亮相：惊艳</a></span><span class="t">6日</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[花了七百多块钱淘来的直板手机！竟然还能玩王者荣耀]]></title>
-        <id>https://news.mydrivers.com/1/774/774462.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774462.htm"/>
-        <updated>2021-08-06T01:42:42.603Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774462.htm">花了七百多块钱淘来的直板手机！竟然还能玩王者荣耀</a></span><span class="t">6日</span>]]></content>
+        <title type="html"><![CDATA[德尔塔病毒有多强：郑州1确诊病例前7次核酸都为阴性]]></title>
+        <id>https://news.mydrivers.com/1/774/774798.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774798.htm"/>
+        <updated>2021-08-07T17:02:23.994Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774798.htm">德尔塔病毒有多强：郑州1确诊病例前7次核酸都为阴性</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[世界最长山脉“缺雪”！居民面临缺水危机]]></title>
@@ -2811,13 +2818,6 @@
         <link href="https://news.mydrivers.com/1/774/774285.htm"/>
         <updated>2021-08-05T06:53:53.453Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774285.htm">俄罗斯拍的赛博风格短片 竟然想把屎拉进黑洞里？</a></span><span class="t">5日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国将推出新防疫措施：外国公民不符合这一点禁止入境]]></title>
-        <id>https://news.mydrivers.com/1/774/774283.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774283.htm"/>
-        <updated>2021-08-05T06:53:53.453Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774283.htm">美国将推出新防疫措施：外国公民不符合这一点禁止入境</a></span><span class="t">5日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[国内第一条跨海高铁来了！中国高铁迈入新时代]]></title>
@@ -3198,17 +3198,24 @@
         <content type="html"><![CDATA[<span class="titl"><a class="redb" href="https://news.mydrivers.com/1/774/774383.htm">曝比亚迪、特斯拉在一起！刀片电池版特斯拉要来了</a></span><span class="t">5日</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[阿里回应“女员工被侵害”：决不容忍 涉嫌员工已停职调查]]></title>
+        <id>https://news.mydrivers.com/1/774/774799.htm</id>
+        <link href="https://news.mydrivers.com/1/774/774799.htm"/>
+        <updated>2021-08-07T17:02:24.102Z</updated>
+        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774799.htm">阿里回应“女员工被侵害”：决不容忍 涉嫌员工已停职调查</a></span><span class="t">7日</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[奥运会马上结束：中国代表团闭幕式旗手诞生！厉害了]]></title>
         <id>https://news.mydrivers.com/1/774/774791.htm</id>
         <link href="https://news.mydrivers.com/1/774/774791.htm"/>
-        <updated>2021-08-07T14:40:29.161Z</updated>
+        <updated>2021-08-07T14:40:28.711Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774791.htm">奥运会马上结束：中国代表团闭幕式旗手诞生！厉害了</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[浙江盛产奥运冠军 网友神回复]]></title>
         <id>https://news.mydrivers.com/1/774/774790.htm</id>
         <link href="https://news.mydrivers.com/1/774/774790.htm"/>
-        <updated>2021-08-07T14:40:29.161Z</updated>
+        <updated>2021-08-07T14:40:28.711Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774790.htm">浙江盛产奥运冠军 网友神回复</a></span><span class="t">7日</span>]]></content>
     </entry>
     <entry>
@@ -3567,12 +3574,5 @@
         <link href="https://news.mydrivers.com/1/774/774516.htm"/>
         <updated>2021-08-06T04:53:36.907Z</updated>
         <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774516.htm">侵权！热门短视频平台因《亮剑》赔了字节4.5万</a></span><span class="t">6日</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全季酒店男子赤身闯入女子房间！其关联公司有数十起纠纷]]></title>
-        <id>https://news.mydrivers.com/1/774/774514.htm</id>
-        <link href="https://news.mydrivers.com/1/774/774514.htm"/>
-        <updated>2021-08-06T04:53:36.907Z</updated>
-        <content type="html"><![CDATA[<span class="titl"><a href="https://news.mydrivers.com/1/774/774514.htm">全季酒店男子赤身闯入女子房间！其关联公司有数十起纠纷</a></span><span class="t">6日</span>]]></content>
     </entry>
 </feed>
