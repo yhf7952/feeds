@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-08-10T03:46:28.365Z</updated>
+    <updated>2021-08-10T04:52:47.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[... that the <b><a href="/wiki/Royal_Hibernian_Hotel" title="Royal Hibernian Hotel">Royal Hibernian Hotel</a></b> is thought to be the oldest hotel in Ireland?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bernette Ford]]></title>
-        <id>https://en.wikipedia.org/wiki/Bernette_Ford</id>
-        <link href="https://en.wikipedia.org/wiki/Bernette_Ford"/>
-        <updated>2021-08-10T03:46:09.950Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Bernette_Ford" title="Bernette Ford">Bernette Ford</a></b> was one of the first members of the Black Creators for Children, an organization that helped promote black authors and increase diversity in children's books?]]></content>
+        <title type="html"><![CDATA[Pierre Olaf]]></title>
+        <id>https://en.wikipedia.org/wiki/Pierre_Olaf</id>
+        <link href="https://en.wikipedia.org/wiki/Pierre_Olaf"/>
+        <updated>2021-08-10T03:46:09.952Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Pierre_Olaf" title="Pierre Olaf">Pierre Olaf</a></b><span class="nowrap">'s</span> portrayal of Jacquot in the 1961 Broadway musical <i><a href="/wiki/Carnival!" title="Carnival!">Carnival!</a></i> earned him a nomination for the <a href="/wiki/Tony_Award_for_Best_Featured_Actor_in_a_Musical" title="Tony Award for Best Featured Actor in a Musical">Tony Award for Best Featured Actor in a Musical</a> in 1962?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Burnt Candlemas]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[... that an English army devastated <a href="/wiki/Lothian" title="Lothian">Lothian</a> in Scotland so thoroughly in 1356 that the episode became known as <b><a href="/wiki/Burnt_Candlemas" title="Burnt Candlemas">Burnt Candlemas</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pierre Olaf]]></title>
-        <id>https://en.wikipedia.org/wiki/Pierre_Olaf</id>
-        <link href="https://en.wikipedia.org/wiki/Pierre_Olaf"/>
-        <updated>2021-08-10T03:46:09.952Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Pierre_Olaf" title="Pierre Olaf">Pierre Olaf</a></b><span class="nowrap">'s</span> portrayal of Jacquot in the 1961 Broadway musical <i><a href="/wiki/Carnival!" title="Carnival!">Carnival!</a></i> earned him a nomination for the <a href="/wiki/Tony_Award_for_Best_Featured_Actor_in_a_Musical" title="Tony Award for Best Featured Actor in a Musical">Tony Award for Best Featured Actor in a Musical</a> in 1962?]]></content>
+        <title type="html"><![CDATA[Bernette Ford]]></title>
+        <id>https://en.wikipedia.org/wiki/Bernette_Ford</id>
+        <link href="https://en.wikipedia.org/wiki/Bernette_Ford"/>
+        <updated>2021-08-10T03:46:09.950Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Bernette_Ford" title="Bernette Ford">Bernette Ford</a></b> was one of the first members of the Black Creators for Children, an organization that helped promote black authors and increase diversity in children's books?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Greenwood Encyclopedia of Science Fiction and Fantasy]]></title>
