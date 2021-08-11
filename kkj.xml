@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-11T11:40:53.005Z</updated>
+    <updated>2021-08-11T13:08:18.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
 澎湃新闻探访该女员工醉酒饭店，一名店员称，女子在门口遭遇同行男性“碰胸”动作。该饭店另一名店员表示，吃饭的房间内没有]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米MIX 4手机发布：100%全面屏旗舰梦想成真 价格良心]]></title>
-        <id>https://news.mydrivers.com/1/775/775377.htm</id>
-        <link href="https://news.mydrivers.com/1/775/775377.htm"/>
-        <updated>2021-08-11T05:01:39.868Z</updated>
-        <content type="html"><![CDATA[8月10日晚，在雷军的年度演讲中，万众期待的小米MIX 4手机正式发布，这是MIX系列时隔3年后的新作，带来了惊艳的CUP全面屏，屏下摄像头技术解决了刘海、挖孔等问题，还有轻量化一体精密陶瓷、UWB]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[雷军退还小米手机1收入：3.7亿不要了 每人赠送1999元]]></title>
         <id>https://news.mydrivers.com/1/775/775400.htm</id>
         <link href="https://news.mydrivers.com/1/775/775400.htm"/>
@@ -54,12 +47,11 @@
 雷军表示，十年前，小米1开售，1999元，18.46万台，3.7亿，这是小米的第一笔收入。有了这一笔收入，我们滚动发展，才有了今天]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[阿里女员工性侵案酒店首次发声：没有违规制作房卡！]]></title>
-        <id>https://news.mydrivers.com/1/775/775388.htm</id>
-        <link href="https://news.mydrivers.com/1/775/775388.htm"/>
-        <updated>2021-08-11T05:01:39.875Z</updated>
-        <content type="html"><![CDATA[阿里女员工遭客户性侵事件还在持续发酵。除了阿里巴巴、济南华联超市两方，涉事酒店也是疑点重重。
-据最新报道，本次事件发生的酒店是亚朵轻居济南西客站店，位于济南市西北方向，距离济南西站]]></content>
+        <title type="html"><![CDATA[小米MIX 4手机发布：100%全面屏旗舰梦想成真 价格良心]]></title>
+        <id>https://news.mydrivers.com/1/775/775377.htm</id>
+        <link href="https://news.mydrivers.com/1/775/775377.htm"/>
+        <updated>2021-08-11T05:01:39.868Z</updated>
+        <content type="html"><![CDATA[8月10日晚，在雷军的年度演讲中，万众期待的小米MIX 4手机正式发布，这是MIX系列时隔3年后的新作，带来了惊艳的CUP全面屏，屏下摄像头技术解决了刘海、挖孔等问题，还有轻量化一体精密陶瓷、UWB]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[意义非凡！国产mini LED大突破 获巨量订单：直逼OLED]]></title>
@@ -68,6 +60,14 @@
         <updated>2021-08-11T05:01:39.876Z</updated>
         <content type="html"><![CDATA[天风证券分析师郭明錤最新研报指出，苹果将在约2022年中期推出全新设计MacBook Air，此新机型主要卖点之一为采用Mini LED显示屏，而京东方将是MacBook Air的Mini LED显示屏新供货商。
 郭明錤认]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里女员工性侵案酒店首次发声：没有违规制作房卡！]]></title>
+        <id>https://news.mydrivers.com/1/775/775388.htm</id>
+        <link href="https://news.mydrivers.com/1/775/775388.htm"/>
+        <updated>2021-08-11T05:01:39.875Z</updated>
+        <content type="html"><![CDATA[阿里女员工遭客户性侵事件还在持续发酵。除了阿里巴巴、济南华联超市两方，涉事酒店也是疑点重重。
+据最新报道，本次事件发生的酒店是亚朵轻居济南西客站店，位于济南市西北方向，距离济南西站]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“KTV”凑齐了！长安全新高端轿车登场 颜值大亮]]></title>
