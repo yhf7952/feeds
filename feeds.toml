@@ -8,7 +8,7 @@ linkSelector = "b a"
 [kkj]
 title = "快科技"
 url = "https://www.mydrivers.com/"
-entrySelector = "#newlist_3_1 > h5 a"
+entrySelector = "#newlist_3_1 > h5"
 titleSelector = "#newlist_3_1 > h5 a"
 linkSelector = "#newlist_3_1 > h5 a"
 contentSelector = "#newlist_3_1 > .phhot_lb_right a"
