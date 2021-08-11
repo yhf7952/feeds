@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-11T13:08:18.630Z</updated>
+    <updated>2021-08-11T13:47:15.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -47,13 +47,6 @@
 雷军表示，十年前，小米1开售，1999元，18.46万台，3.7亿，这是小米的第一笔收入。有了这一笔收入，我们滚动发展，才有了今天]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米MIX 4手机发布：100%全面屏旗舰梦想成真 价格良心]]></title>
-        <id>https://news.mydrivers.com/1/775/775377.htm</id>
-        <link href="https://news.mydrivers.com/1/775/775377.htm"/>
-        <updated>2021-08-11T05:01:39.868Z</updated>
-        <content type="html"><![CDATA[8月10日晚，在雷军的年度演讲中，万众期待的小米MIX 4手机正式发布，这是MIX系列时隔3年后的新作，带来了惊艳的CUP全面屏，屏下摄像头技术解决了刘海、挖孔等问题，还有轻量化一体精密陶瓷、UWB]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[意义非凡！国产mini LED大突破 获巨量订单：直逼OLED]]></title>
         <id>https://news.mydrivers.com/1/775/775417.htm</id>
         <link href="https://news.mydrivers.com/1/775/775417.htm"/>
@@ -70,6 +63,14 @@
 据最新报道，本次事件发生的酒店是亚朵轻居济南西客站店，位于济南市西北方向，距离济南西站]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[台式机办公已是过去式！onebot一体机评测]]></title>
+        <id>https://news.mydrivers.com/1/775/775423.htm</id>
+        <link href="https://news.mydrivers.com/1/775/775423.htm"/>
+        <updated>2021-08-11T11:40:52.938Z</updated>
+        <content type="html"><![CDATA[一、前言：一体机取代台式电脑是办公电脑大势所趋
+不知道你所在的办公室是否如此：桌上的接线板插着显示器、主机的电源线，键盘线、鼠标线、HDMI线以及各种数据线交织在一起令桌面凌乱不堪，]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“KTV”凑齐了！长安全新高端轿车登场 颜值大亮]]></title>
         <id>https://news.mydrivers.com/1/775/775405.htm</id>
         <link href="https://news.mydrivers.com/1/775/775405.htm"/>
@@ -78,11 +79,11 @@
 此前，长安UNI系]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[台式机办公已是过去式！onebot一体机评测]]></title>
-        <id>https://news.mydrivers.com/1/775/775423.htm</id>
-        <link href="https://news.mydrivers.com/1/775/775423.htm"/>
-        <updated>2021-08-11T11:40:52.938Z</updated>
-        <content type="html"><![CDATA[一、前言：一体机取代台式电脑是办公电脑大势所趋
-不知道你所在的办公室是否如此：桌上的接线板插着显示器、主机的电源线，键盘线、鼠标线、HDMI线以及各种数据线交织在一起令桌面凌乱不堪，]]></content>
+        <title type="html"><![CDATA[又一致命病毒开始传播！世卫组织：死亡率88% 已有1人死亡]]></title>
+        <id>https://news.mydrivers.com/1/775/775481.htm</id>
+        <link href="https://news.mydrivers.com/1/775/775481.htm"/>
+        <updated>2021-08-11T13:47:15.614Z</updated>
+        <content type="html"><![CDATA[新冠疫情目前仍在全球蔓延，甚至在德尔塔毒株的影响下，呈现反弹趋势。但是在西非，又出现了一种致命病毒，为抗击疫情带来了新的挑战。
+据外媒报道，日前，世界卫生组织表示，在西非一名男子死]]></content>
     </entry>
 </feed>
