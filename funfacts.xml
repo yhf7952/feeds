@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-08-12T13:48:25.804Z</updated>
+    <updated>2021-08-12T15:50:35.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/2010_Chinese_Grand_Prix</id>
         <link href="https://en.wikipedia.org/wiki/2010_Chinese_Grand_Prix"/>
         <updated>2021-08-12T13:46:53.856Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> <i>(pictured)</i> winning from <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> at the <b><a href="/wiki/2010_Chinese_Grand_Prix" title="2010 Chinese Grand Prix">2010 Chinese Grand Prix</a></b> was the first one-two finish for British <a href="/wiki/Formula_One" title="Formula One">Formula One</a> drivers in over a decade?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> <i>(pictured)</i> winning ahead of <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> at the <b><a href="/wiki/2010_Chinese_Grand_Prix" title="2010 Chinese Grand Prix">2010 Chinese Grand Prix</a></b> was the first one-two finish for British <a href="/wiki/Formula_One" title="Formula One">Formula One</a> drivers in over a decade?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[legalise voluntary assisted dying]]></title>
