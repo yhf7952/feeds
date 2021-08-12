@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yhf7952.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-12T10:45:39.725Z</updated>
+    <updated>2021-08-12T11:41:36.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[house-shaped shrines (Wikipedia — did you know?)]]></title>
@@ -104,15 +104,6 @@
 8月11日消息，据中国汽车动力电池产业创新联]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的集显很大！AMD Zen3锐龙APU深度测试 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/775/775627.htm</id>
-        <link href="https://news.mydrivers.com/1/775/775627.htm"/>
-        <updated>2021-08-11T18:56:02.534Z</updated>
-        <content type="html"><![CDATA[对于PC DIY来说，2021年很难说是一个好年。
-在经历了上半年矿卡和矿盘的冲击之后，下半年的显卡价格虽然有所松动但是并没有如预期下跌，近期LHR显卡的破解消息也是暗流涌动。
-被寄予厚望的下]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[首期投资100亿！武汉官方要引进小米汽车项目 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/775/775657.htm</id>
         <link href="https://news.mydrivers.com/1/775/775657.htm"/>
@@ -143,5 +134,13 @@
         <updated>2021-08-12T10:45:39.559Z</updated>
         <content type="html"><![CDATA[近日英媒爆料称，东京奥运会新科百米冠军、男子4x100米接力冠军得主意大利人雅各布斯的营养师目前正在被意大利警方调查，原因是他涉嫌为运动员提供固醇类药物。
 据了解，雅各布斯的营养师，名叫]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一只世界上最稀有的兔子被农民意外发现：结果暖心 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/775/775647.htm</id>
+        <link href="https://news.mydrivers.com/1/775/775647.htm"/>
+        <updated>2021-08-12T11:41:36.601Z</updated>
+        <content type="html"><![CDATA[苏门答腊条纹兔（Sumatran striped rabbit）是一种稀有濒危物种，人类上一次见到是在2018年，但两只最终都死亡了。
+而博物馆、课本、百科等对该物种的记录资料，多基于100年前荷兰殖民者收集的]]></content>
     </entry>
 </feed>
