@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-13T05:40:16.190Z</updated>
+    <updated>2021-08-13T06:52:51.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -46,15 +46,6 @@
 英]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7人聚餐集体感染！最小1岁、最大63岁]]></title>
-        <id>https://news.mydrivers.com/1/775/775967.htm</id>
-        <link href="https://news.mydrivers.com/1/775/775967.htm"/>
-        <updated>2021-08-13T04:53:51.423Z</updated>
-        <content type="html"><![CDATA[据武汉市卫健委，8月11日0-24时，武汉全市新增确诊病例4例、无症状感染者8例，无新增出院病例、死亡病例、疑似病例。
-同时，全市发热门诊共接诊1768人次，较上日减少8人，其中首诊1620人。
-截]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[最严竞业封杀中国全部车企 违规需赔80万！长城回应]]></title>
         <id>https://news.mydrivers.com/1/775/775928.htm</id>
         <link href="https://news.mydrivers.com/1/775/775928.htm"/>
@@ -63,12 +54,13 @@
 从企业名单列表中，可以看到，长城所列的竞业限制企业名单中，包含国内一众知名车企和配套电池、零部件厂商。员]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[探访于月仙车祸地：一年上百头牲畜被撞死]]></title>
-        <id>https://news.mydrivers.com/1/775/775972.htm</id>
-        <link href="https://news.mydrivers.com/1/775/775972.htm"/>
-        <updated>2021-08-13T02:47:17.325Z</updated>
-        <content type="html"><![CDATA[8月9日，著名演员于月仙在内蒙古阿拉善右旗遭遇交通事故，不幸去世。
-据通报，事故发生地为高速S228线443.5公里处，于月仙乘坐的SUV与路上的两只骆驼发生碰撞，于月仙不幸去世，司机及其他两名]]></content>
+        <title type="html"><![CDATA[7人聚餐集体感染！最小1岁、最大63岁]]></title>
+        <id>https://news.mydrivers.com/1/775/775967.htm</id>
+        <link href="https://news.mydrivers.com/1/775/775967.htm"/>
+        <updated>2021-08-13T04:53:51.423Z</updated>
+        <content type="html"><![CDATA[据武汉市卫健委，8月11日0-24时，武汉全市新增确诊病例4例、无症状感染者8例，无新增出院病例、死亡病例、疑似病例。
+同时，全市发热门诊共接诊1768人次，较上日减少8人，其中首诊1620人。
+截]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国最大的盐湖实现提锂工艺的大突破！锂产能暴涨]]></title>
@@ -79,11 +71,19 @@
 据悉，距离青海格尔木城区约60公里、地处柴达木腹地就是中国最大的盐湖——察尔汗盐湖。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[湖北多地遭遇特大暴雨 10万余人受灾：感受下这可怕洪水]]></title>
-        <id>https://news.mydrivers.com/1/775/775845.htm</id>
-        <link href="https://news.mydrivers.com/1/775/775845.htm"/>
-        <updated>2021-08-12T13:48:25.728Z</updated>
-        <content type="html"><![CDATA[据湖北省气象局12日消息，11日白天该省神农架、黄冈东南部遭遇大到暴雨、局部大暴雨，夜间襄阳和随州出现了暴雨到特大暴雨，伴有短时强降水和雷电。
-雨量监测显示，湖北有11站特大暴雨，其中襄]]></content>
+        <title type="html"><![CDATA[全红婵隔离期间有多自律 网友：家里没条件健身的都是借口]]></title>
+        <id>https://news.mydrivers.com/1/775/775874.htm</id>
+        <link href="https://news.mydrivers.com/1/775/775874.htm"/>
+        <updated>2021-08-13T06:52:51.610Z</updated>
+        <content type="html"><![CDATA[8月5日，东京奥运会女子10米跳台决赛中，14岁的全红婵以总分466.20摘金，这一成绩也是女子10米跳台比赛的历史最高分。三跳满分，更让让跳水皇后郭晶晶都直呼羡慕。
+成功的的背后，除了天赋之外]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探访于月仙车祸地：一年上百头牲畜被撞死]]></title>
+        <id>https://news.mydrivers.com/1/775/775972.htm</id>
+        <link href="https://news.mydrivers.com/1/775/775972.htm"/>
+        <updated>2021-08-13T02:47:17.325Z</updated>
+        <content type="html"><![CDATA[8月9日，著名演员于月仙在内蒙古阿拉善右旗遭遇交通事故，不幸去世。
+据通报，事故发生地为高速S228线443.5公里处，于月仙乘坐的SUV与路上的两只骆驼发生碰撞，于月仙不幸去世，司机及其他两名]]></content>
     </entry>
 </feed>
