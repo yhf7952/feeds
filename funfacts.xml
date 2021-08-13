@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-08-13T19:40:11.326Z</updated>
+    <updated>2021-08-13T20:41:44.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Olaf%27s_Frozen_Adventure</id>
         <link href="https://en.wikipedia.org/wiki/Olaf%27s_Frozen_Adventure"/>
         <updated>2021-08-13T13:45:57.975Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Olaf%27s_Frozen_Adventure" title="Olaf's Frozen Adventure">Olaf's Frozen Adventure</a></b></i> was removed from exhibition in Mexico following complaints about its length?]]></content>
+        <content type="html"><![CDATA[... that Mexican theatergoers complained that <i><b><a href="/wiki/Olaf%27s_Frozen_Adventure" title="Olaf's Frozen Adventure">Olaf's Frozen Adventure</a></b></i>, a short that played before the movie <i><a href="/wiki/Coco" class="mw-disambig" title="Coco">Coco</a></i>, was too long?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bailey Wightman]]></title>
