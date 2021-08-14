@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-14T13:00:53.497Z</updated>
+    <updated>2021-08-14T17:02:20.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[谁在瞒报？河南商丘突然新增多例本土病例 官方回应]]></title>
+        <id>https://news.mydrivers.com/1/776/776366.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776366.htm"/>
+        <updated>2021-08-14T17:02:19.277Z</updated>
+        <content type="html"><![CDATA[8月14日，据@网信商丘发布的公告显示，截至8月13日24时，商丘市虞城县报告新增确诊病例4例。因虞城县疫情管控不力并涉嫌瞒报疫情，导致此次疫情，相关情况正在调查。
+商丘市虞城县报告新增确诊]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“盐湖提锂王”股价1天暴涨300%：背后到底发生了什么]]></title>
         <id>https://news.mydrivers.com/1/776/776277.htm</id>
@@ -12,22 +20,6 @@
         <updated>2021-08-14T06:51:45.547Z</updated>
         <content type="html"><![CDATA[自8月10日恢复上市以来，盐湖提锂板块的龙头盐湖股份，股价走势可谓惊心动魄，首日大涨超3倍，次日大跌8.41%，12日涨停，13日冲高回落微涨3.18%。
 从2020年5月22日被暂停上市，到2021年8月10日]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45升油箱 加油站竟加出52升！回应令人瞠目结舌]]></title>
-        <id>https://news.mydrivers.com/1/776/776272.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776272.htm"/>
-        <updated>2021-08-14T02:12:55.265Z</updated>
-        <content type="html"><![CDATA[近日，在广东佛山，一名司机加油时遇到了匪夷所思的一幕：自己的雪佛兰沃兰多明明是45升的油箱，却被加油站加到了近52升。
-据悉，男子进入加油站时，油表显示还有2格，加油过程中却发现数字显示]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终于等到你！7+英寸巨屏官宣]]></title>
-        <id>https://news.mydrivers.com/1/776/776256.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776256.htm"/>
-        <updated>2021-08-14T08:43:53.562Z</updated>
-        <content type="html"><![CDATA[曾经，大屏是智能手机的一个主打卖点，尤其是三星Galaxy Note系列掀起了大屏浪潮，各种Note、Max机型满天飞。
-不过随着主流手机屏幕越做越大，6.5寸左右乃至更大成为事实性标准，就连6寸上下的]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[31省份新增本土确诊30例！全程疫苗接种人数首次公布]]></title>
@@ -46,6 +38,24 @@
 据国内媒体报道，昨天（8月13日），江苏扬州在主城区进行了一次拉网式核酸检测情况]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[央视开播新《天龙八部》！大牌云集]]></title>
+        <id>https://news.mydrivers.com/1/776/776335.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776335.htm"/>
+        <updated>2021-08-14T17:02:19.289Z</updated>
+        <content type="html"><![CDATA[金庸武侠剧又有新版本可看了。
+据媒体报道，根据金庸同名小说改编，由于荣光执导的新版电视剧《天龙八部》正式定档，今晚20点在中央电视台电视剧频道（CCTV-8）经典剧场上星独播。
+视频
+与此]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[涉嫌瞒报 河南这一市新增病例变多：感受下严重疫情]]></title>
+        <id>https://news.mydrivers.com/1/776/776351.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776351.htm"/>
+        <updated>2021-08-14T17:02:19.289Z</updated>
+        <content type="html"><![CDATA[据商丘市政府网站消息，8月13日24时商丘市虞城县报告新增确诊病例4例。随后，商丘官方通报，因虞城县疫情管控不力并涉嫌瞒报疫情，相关情况正在调查中。8月以来，商丘已有多例本土确诊病例。
+随]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一家5口家中遇难！湖北遭极端强降雨：积水最深5米]]></title>
         <id>https://news.mydrivers.com/1/776/776283.htm</id>
         <link href="https://news.mydrivers.com/1/776/776283.htm"/>
@@ -61,14 +71,6 @@
 新版《天龙八部》中的结义三兄弟乔峰、段誉和虚竹分别由杨祐宁、白澍和张]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大型留学机构CEO卷钱潜逃回英国：学费＋欠薪超1000万]]></title>
-        <id>https://news.mydrivers.com/1/776/776269.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776269.htm"/>
-        <updated>2021-08-14T04:53:17.397Z</updated>
-        <content type="html"><![CDATA[8月13日晚，网传一份霍兰德教育全体中国员工联合起草的《声明》，其中称由于公司经营不善，公司法人即唯一股东，Jake Hall已于两周前出境跑路，已经逃到英国。
-声明还称，估算这位老板欠学员家]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[河南卫视出圈节目被指盗用图片！双方深夜回应]]></title>
         <id>https://news.mydrivers.com/1/776/776316.htm</id>
         <link href="https://news.mydrivers.com/1/776/776316.htm"/>
@@ -77,11 +79,11 @@
 今天是农历七月初七的七夕情人节，河南卫视在昨晚又重磅推出了《七夕奇妙游》节目，并且再度爆]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[当红小鲜肉冒犯国人情感遭央视/人民日报怒批：品牌方解约]]></title>
-        <id>https://news.mydrivers.com/1/776/776251.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776251.htm"/>
-        <updated>2021-08-14T13:00:52.932Z</updated>
-        <content type="html"><![CDATA[近日，张哲瀚在2018年发出的一条微博中，po出在日本游玩的九宫格照，有网友指出这是在靖国神社内部拍摄的照片。
-8月13日，张哲瀚的合作方Anker发表声明：已向张哲瀚方发出《解约告知函》，即日]]></content>
+        <title type="html"><![CDATA[苹果首发5nm+！iPhone13全曝光：这国行售价厚道了？]]></title>
+        <id>https://news.mydrivers.com/1/776/776313.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776313.htm"/>
+        <updated>2021-08-14T17:02:19.297Z</updated>
+        <content type="html"><![CDATA[对于苹果来说，他们目前正在全力推进iPhone 13的进度，毕竟距离发布时间也没有多久了。
+据最新消息显示，苹果会在下个月发布iPhone 13，而届时新机将首发5nm+工艺，当然台积电是独家代工厂。]]></content>
     </entry>
 </feed>
