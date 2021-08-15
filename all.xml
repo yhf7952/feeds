@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yhf7952.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-15T15:47:42.754Z</updated>
+    <updated>2021-08-15T17:43:50.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[abominable Albert [shako] (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Albert_shako</id>
         <link href="https://en.wikipedia.org/wiki/Albert_shako"/>
         <updated>2021-08-15T13:01:03.913Z</updated>
-        <content type="html"><![CDATA[... that during the Crimean War, a colonel complained about his "<b><a href="/wiki/Albert_shako" title="Albert shako">abominable Albert [shako]</a></b>" <i>(example pictured)</i>, upon whose leather top "a man may fry his ration beef at mid-day in this climate"?]]></content>
+        <content type="html"><![CDATA[... that during the <a href="/wiki/Crimean_War" title="Crimean War">Crimean War</a>, a colonel complained about his "<b><a href="/wiki/Albert_shako" title="Albert shako">abominable Albert [shako]</a></b>" <i>(example pictured)</i>, upon whose leather top "a man may fry his ration beef at mid-day in this climate"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doug Sahm (Wikipedia — did you know?)]]></title>
@@ -61,14 +61,6 @@
         <content type="html"><![CDATA[... that chef <a href="/wiki/Angie_Mar" title="Angie Mar">Angie Mar</a> went from running <a href="/wiki/The_Beatrice_Inn" title="The Beatrice Inn">a steakhouse</a> to owning <b><a href="/wiki/Les_Trois_Chevaux" title="Les Trois Chevaux">Three Horses</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[注意！这种戴口罩真错了 这些错误方式赶快了解 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/776/776377.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776377.htm"/>
-        <updated>2021-08-15T02:46:44.118Z</updated>
-        <content type="html"><![CDATA[日前，针对德尔塔变异株特点，国家卫健委印发《公众和重点职业人群戴口罩指引（2021年8月版）》，对戴口罩指引进行了修订。
-日常生活中，许多不经意的习惯都可能对口罩造成污染。佩戴口罩常见的]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[阿里女员工被侵害当晚细节公布：网友直呼太曲折了 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/776/776385.htm</id>
         <link href="https://news.mydrivers.com/1/776/776385.htm"/>
@@ -94,27 +86,28 @@
 国家家用电器质量检测中心公布的数据显示，该检测机构对全国7省市64家企业生产的70批次便携式风扇]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[反转？济南公安通报阿里女员工被侵害案：细节揭晓 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/776/776378.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776378.htm"/>
-        <updated>2021-08-15T08:43:29.601Z</updated>
-        <content type="html"><![CDATA[8月7日，有网帖以阿里女员工自述形式称，其在出差期间被恶意灌酒并遭到商户张某侵害，此后其领导又偷办酒店房卡，多次进入房间对其进行侵犯。该女员工此后报警，并向公司反馈无果，前往食堂发传]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老人砍自己种的一棵树竟被罚14万上热搜：官方回应 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/776/776376.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776376.htm"/>
-        <updated>2021-08-15T05:40:26.773Z</updated>
-        <content type="html"><![CDATA[上海李某花1万多买的香樟树，多年前种在院子外，因嫌它遮挡阳光，请人前来修剪，没想到却被城管部门认定为“砍伐”树木，作出14万元罚款处罚。
-李某很疑惑自己买的树，为何不能修剪？]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[张文宏博士学位论文被举报 复旦大学回应：已启动调查核实 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/776/776421.htm</id>
         <link href="https://news.mydrivers.com/1/776/776421.htm"/>
         <updated>2021-08-15T10:43:09.320Z</updated>
         <content type="html"><![CDATA[8月14日，有网友举报复旦大学附属华山医院张文宏医生在复旦大学就读博士期间论文抄袭，与黄海南教授1998年发表的一文存在大量重合。
 有媒体对比两篇论文发现，在张文宏论文综述部分与黄海南的论]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南一市疫情发展迅速 首例确诊女孩遭网暴：无助发声 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/776/776444.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776444.htm"/>
+        <updated>2021-08-15T17:43:49.661Z</updated>
+        <content type="html"><![CDATA[8月15日上午，河南省卫健委通报称，8月14日，河南省新增本土确诊病例5例，本土无症状感染者7例。其中，5例确诊病例和6例无症状感染者在商丘市。
+此前的8月3日至8月12日，商丘已经连续10天未出现]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11人被卷入海水身亡 10分钟消失不见！小心这一隐形杀手 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/776/776433.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776433.htm"/>
+        <updated>2021-08-15T15:47:42.171Z</updated>
+        <content type="html"><![CDATA[夏日去海边畅游，原本是很惬意的事情，但对于大海的危险性，很多人可能根本没有意识。
+8月14日下午，福建漳州漳浦县前亭镇江口村附近海滩，就发生了多人溺亡的惨烈事故，造成多达11人不幸身亡。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一月内致2死！蔚来自动辅助驾驶带走商界大佬 现场太惨烈 (快科技)]]></title>
@@ -125,19 +118,27 @@
 2021年8月12日下午2时，上善若水投资管理公司创始人、意统天下餐饮管理公司创始人、美一好品牌管理公司创始人林文钦（昵称&amp;ld]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新《天龙八部》开播 口碑出炉：网友点赞美貌神仙姐姐 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/776/776370.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776370.htm"/>
-        <updated>2021-08-15T13:01:38.125Z</updated>
-        <content type="html"><![CDATA[根据金庸同名小说改编，由于荣光执导的新版电视剧《天龙八部》正式定档，今晚20点在中央电视台电视剧频道（CCTV-8）经典剧场上星独播。
-该剧改编自金庸同名武侠小说，以北宋哲宗时代为背景，讲]]></content>
+        <title type="html"><![CDATA[斥资近6亿！英国最大芯片公司：正式是我们的了 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/776/776432.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776432.htm"/>
+        <updated>2021-08-15T17:43:49.664Z</updated>
+        <content type="html"><![CDATA[7月初，闻泰科技旗下安世半导体公司宣布以6300万英镑（约合5.4亿元）收购英国最大半导体晶圆公司Newport Wafer Fab（NWF）。
+随后传出英方监管机构以国家安全为由参与审查，甚至Imagination前C]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11人被卷入海水身亡 10分钟消失不见！小心这一隐形杀手 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/776/776433.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776433.htm"/>
-        <updated>2021-08-15T15:47:42.171Z</updated>
-        <content type="html"><![CDATA[夏日去海边畅游，原本是很惬意的事情，但对于大海的危险性，很多人可能根本没有意识。
-8月14日下午，福建漳州漳浦县前亭镇江口村附近海滩，就发生了多人溺亡的惨烈事故，造成多达11人不幸身亡。]]></content>
+        <title type="html"><![CDATA[一口价49元！小米电池换新活动来了：4年前的老爷机在列 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/776/776409.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776409.htm"/>
+        <updated>2021-08-15T17:43:49.665Z</updated>
+        <content type="html"><![CDATA[8月16日将迎来小米手机1发布10周年，也就是小米手机诞生10周年。
+小米官方宣布，8月16日到18日的小米感恩季活动中，售后方面将有三大福利措施，分别是49元换电池、0元屏幕贴膜和1分钱后盖彩膜。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扬州确诊+18！这个共同点必须警惕 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/776/776455.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776455.htm"/>
+        <updated>2021-08-15T17:43:49.665Z</updated>
+        <content type="html"><![CDATA[据扬州市卫健委早先通报，8月14日0-24时，扬州市新增本土新冠确诊病例18例(集中隔离点17例、居家隔离1例)，其中3例为轻型、15例为普通型。同时新增本土确诊出院病例7例。
+7月28日至今，扬州市累]]></content>
     </entry>
 </feed>

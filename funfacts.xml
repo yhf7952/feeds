@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-08-15T15:47:42.749Z</updated>
+    <updated>2021-08-15T17:43:50.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Albert_shako</id>
         <link href="https://en.wikipedia.org/wiki/Albert_shako"/>
         <updated>2021-08-15T13:01:03.913Z</updated>
-        <content type="html"><![CDATA[... that during the Crimean War, a colonel complained about his "<b><a href="/wiki/Albert_shako" title="Albert shako">abominable Albert [shako]</a></b>" <i>(example pictured)</i>, upon whose leather top "a man may fry his ration beef at mid-day in this climate"?]]></content>
+        <content type="html"><![CDATA[... that during the <a href="/wiki/Crimean_War" title="Crimean War">Crimean War</a>, a colonel complained about his "<b><a href="/wiki/Albert_shako" title="Albert shako">abominable Albert [shako]</a></b>" <i>(example pictured)</i>, upon whose leather top "a man may fry his ration beef at mid-day in this climate"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doug Sahm]]></title>
