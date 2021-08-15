@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-15T10:43:11.914Z</updated>
+    <updated>2021-08-15T13:01:38.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -22,14 +22,6 @@
 日常生活中，许多不经意的习惯都可能对口罩造成污染。佩戴口罩常见的]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[涉嫌瞒报 河南这一市新增病例变多：感受下严重疫情]]></title>
-        <id>https://news.mydrivers.com/1/776/776351.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776351.htm"/>
-        <updated>2021-08-14T17:02:19.289Z</updated>
-        <content type="html"><![CDATA[据商丘市政府网站消息，8月13日24时商丘市虞城县报告新增确诊病例4例。随后，商丘官方通报，因虞城县疫情管控不力并涉嫌瞒报疫情，相关情况正在调查中。8月以来，商丘已有多例本土确诊病例。
-随]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[阿里女员工被侵害当晚细节公布：网友直呼太曲折了]]></title>
         <id>https://news.mydrivers.com/1/776/776385.htm</id>
         <link href="https://news.mydrivers.com/1/776/776385.htm"/>
@@ -47,19 +39,19 @@
 其中一只被命名为“斯巴达”的幼狮化石距今已有2.8万年，面部表情栩栩如生，可能]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[反转？济南公安通报阿里女员工被侵害案：细节揭晓]]></title>
+        <id>https://news.mydrivers.com/1/776/776378.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776378.htm"/>
+        <updated>2021-08-15T08:43:29.601Z</updated>
+        <content type="html"><![CDATA[8月7日，有网帖以阿里女员工自述形式称，其在出差期间被恶意灌酒并遭到商户张某侵害，此后其领导又偷办酒店房卡，多次进入房间对其进行侵犯。该女员工此后报警，并向公司反馈无果，前往食堂发传]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[老人砍自己种的一棵树竟被罚14万上热搜：官方回应]]></title>
         <id>https://news.mydrivers.com/1/776/776376.htm</id>
         <link href="https://news.mydrivers.com/1/776/776376.htm"/>
         <updated>2021-08-15T05:40:26.773Z</updated>
         <content type="html"><![CDATA[上海李某花1万多买的香樟树，多年前种在院子外，因嫌它遮挡阳光，请人前来修剪，没想到却被城管部门认定为“砍伐”树木，作出14万元罚款处罚。
 李某很疑惑自己买的树，为何不能修剪？]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反转？济南公安通报阿里女员工被侵害案：细节揭晓]]></title>
-        <id>https://news.mydrivers.com/1/776/776378.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776378.htm"/>
-        <updated>2021-08-15T08:43:29.601Z</updated>
-        <content type="html"><![CDATA[8月7日，有网帖以阿里女员工自述形式称，其在出差期间被恶意灌酒并遭到商户张某侵害，此后其领导又偷办酒店房卡，多次进入房间对其进行侵犯。该女员工此后报警，并向公司反馈无果，前往食堂发传]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[驾驶蔚来汽车发生车祸！一连锁品牌创始人不幸去世]]></title>
@@ -70,18 +62,27 @@
 2021年8月12日下午2时，上善若水投资管理公司创始人、意统天下餐饮管理公司创始人、美一好品牌管理公司创始人林文钦（昵称]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[阿里女员工遭侵害：官方通报调查结果]]></title>
-        <id>https://news.mydrivers.com/1/776/776355.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776355.htm"/>
-        <updated>2021-08-15T10:43:09.320Z</updated>
-        <content type="html"><![CDATA[8月14日消息，针对“阿里女员工被侵害”一案，公安机关在济南、杭州两地同步全面调查取证，依法开展讯问询问、调阅视频监控、固定提取电子数据、勘验检查等工作。现就调查情况通报如下]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[张文宏博士学位论文被举报 复旦大学回应：已启动调查核实]]></title>
         <id>https://news.mydrivers.com/1/776/776421.htm</id>
         <link href="https://news.mydrivers.com/1/776/776421.htm"/>
         <updated>2021-08-15T10:43:09.320Z</updated>
         <content type="html"><![CDATA[8月14日，有网友举报复旦大学附属华山医院张文宏医生在复旦大学就读博士期间论文抄袭，与黄海南教授1998年发表的一文存在大量重合。
 有媒体对比两篇论文发现，在张文宏论文综述部分与黄海南的论]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新《天龙八部》开播 口碑出炉：网友点赞美貌神仙姐姐]]></title>
+        <id>https://news.mydrivers.com/1/776/776370.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776370.htm"/>
+        <updated>2021-08-15T13:01:38.125Z</updated>
+        <content type="html"><![CDATA[根据金庸同名小说改编，由于荣光执导的新版电视剧《天龙八部》正式定档，今晚20点在中央电视台电视剧频道（CCTV-8）经典剧场上星独播。
+该剧改编自金庸同名武侠小说，以北宋哲宗时代为背景，讲]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一月内致2死！蔚来自动辅助驾驶带走商界大佬 现场太惨烈]]></title>
+        <id>https://news.mydrivers.com/1/776/776379.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776379.htm"/>
+        <updated>2021-08-15T13:01:38.130Z</updated>
+        <content type="html"><![CDATA[8月14日，一个认证为“美一好”的个人公众号发布讣告。
+2021年8月12日下午2时，上善若水投资管理公司创始人、意统天下餐饮管理公司创始人、美一好品牌管理公司创始人林文钦（昵称&amp;ld]]></content>
     </entry>
 </feed>
