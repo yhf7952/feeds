@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-15T08:43:32.224Z</updated>
+    <updated>2021-08-15T09:43:57.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -40,14 +40,6 @@
 与此]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[史上最严：扬州未核酸检测将录入失信记录]]></title>
-        <id>https://news.mydrivers.com/1/776/776328.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776328.htm"/>
-        <updated>2021-08-14T11:40:27.098Z</updated>
-        <content type="html"><![CDATA[此轮疫情中，不少城市都采取了多轮核酸检测。但如果有人未配合完整地做多轮核酸检测，就有可能留下风险隐患。
-据国内媒体报道，昨天（8月13日），江苏扬州在主城区进行了一次拉网式核酸检测情况]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[阿里女员工被侵害当晚细节公布：网友直呼太曲折了]]></title>
         <id>https://news.mydrivers.com/1/776/776385.htm</id>
         <link href="https://news.mydrivers.com/1/776/776385.htm"/>
@@ -57,20 +49,20 @@
 虽说事情并没有到]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[老人砍自己种的一棵树竟被罚14万上热搜：官方回应]]></title>
-        <id>https://news.mydrivers.com/1/776/776376.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776376.htm"/>
-        <updated>2021-08-15T05:40:26.773Z</updated>
-        <content type="html"><![CDATA[上海李某花1万多买的香樟树，多年前种在院子外，因嫌它遮挡阳光，请人前来修剪，没想到却被城管部门认定为“砍伐”树木，作出14万元罚款处罚。
-李某很疑惑自己买的树，为何不能修剪？]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[像睡着了！幼狮冰冻2.8万年仍栩栩如生]]></title>
         <id>https://news.mydrivers.com/1/776/776395.htm</id>
         <link href="https://news.mydrivers.com/1/776/776395.htm"/>
         <updated>2021-08-15T08:43:29.601Z</updated>
         <content type="html"><![CDATA[据媒体报道，近日，一个科学家小组对在俄罗斯西伯利亚永久冻土层中发现的两只狮子幼崽化石展开研究。
 其中一只被命名为“斯巴达”的幼狮化石距今已有2.8万年，面部表情栩栩如生，可能]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老人砍自己种的一棵树竟被罚14万上热搜：官方回应]]></title>
+        <id>https://news.mydrivers.com/1/776/776376.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776376.htm"/>
+        <updated>2021-08-15T05:40:26.773Z</updated>
+        <content type="html"><![CDATA[上海李某花1万多买的香樟树，多年前种在院子外，因嫌它遮挡阳光，请人前来修剪，没想到却被城管部门认定为“砍伐”树木，作出14万元罚款处罚。
+李某很疑惑自己买的树，为何不能修剪？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[反转？济南公安通报阿里女员工被侵害案：细节揭晓]]></title>
@@ -86,5 +78,13 @@
         <updated>2021-08-15T08:43:29.602Z</updated>
         <content type="html"><![CDATA[8月14日消息，一个认证为“美一好”的个人公众号发布讣告。
 2021年8月12日下午2时，上善若水投资管理公司创始人、意统天下餐饮管理公司创始人、美一好品牌管理公司创始人林文钦（昵称]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子七夕竟用绿气球向女友求婚 等你绿了领证：画面羡慕]]></title>
+        <id>https://news.mydrivers.com/1/776/776340.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776340.htm"/>
+        <updated>2021-08-15T09:43:56.466Z</updated>
+        <content type="html"><![CDATA[目前郑州处在疫情爆发区，在这样的关键时候，一些情侣的七夕节怎么过呢？
+8月14日，在郑州沈庄新城小区外，北京小伙隔空雇跑腿拉求婚横幅放绿气球，向封控区内正在隔离的女友表白：“等你]]></content>
     </entry>
 </feed>
