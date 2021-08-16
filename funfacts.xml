@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-08-16T10:45:43.510Z</updated>
+    <updated>2021-08-16T11:53:28.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Ink_wash_painting</id>
         <link href="https://en.wikipedia.org/wiki/Ink_wash_painting"/>
         <updated>2021-08-16T01:38:44.699Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Ink_wash_painting" title="Ink wash painting">ink wash painting</a></b> was created by the Chinese in the 8th century and the technique then spread to <a href="/wiki/East_Asia" title="East Asia">East Asia</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ink_wash_painting" title="Ink wash painting">ink wash painting</a></b> was created by the Chinese in the 8th century and the technique then spread to the rest of <a href="/wiki/East_Asia" title="East Asia">East Asia</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vincent Figgins]]></title>
