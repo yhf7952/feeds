@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yhf7952.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-16T06:54:14.351Z</updated>
+    <updated>2021-08-16T07:40:22.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Paula Craig (Wikipedia — did you know?)]]></title>
@@ -101,14 +101,6 @@
         <content type="html"><![CDATA[8月12日，上善若水投资管理公司创始人、意统天下餐饮管理公司创始人、美一好品牌管理公司创始人林文钦（昵称“萌剑客”），驾驶蔚来ES8汽车启用自动驾驶功能（NOP领航状态）后，在沈海高速涵江段]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[张文宏博士学位论文被举报 复旦大学回应：已启动调查核实 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/776/776421.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776421.htm"/>
-        <updated>2021-08-15T10:43:09.320Z</updated>
-        <content type="html"><![CDATA[8月14日，有网友举报复旦大学附属华山医院张文宏医生在复旦大学就读博士期间论文抄袭，与黄海南教授1998年发表的一文存在大量重合。
-有媒体对比两篇论文发现，在张文宏论文综述部分与黄海南的论]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新疆新增3名感染者：病毒来源成谜 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/776/776461.htm</id>
         <link href="https://news.mydrivers.com/1/776/776461.htm"/>
@@ -139,5 +131,12 @@
         <updated>2021-08-16T04:53:49.932Z</updated>
         <content type="html"><![CDATA[据扬州市卫健委早先通报，8月14日0-24时，扬州市新增本土新冠确诊病例18例(集中隔离点17例、居家隔离1例)，其中3例为轻型、15例为普通型。同时新增本土确诊出院病例7例。
 7月28日至今，扬州市累]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国拿下英国第一芯片制造商：意义何在？ (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/776/776456.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776456.htm"/>
+        <updated>2021-08-16T07:40:21.703Z</updated>
+        <content type="html"><![CDATA[8月15日消息，今天闻泰科技发布公告，宣布公司全资子公司安世半导体已经完成了对英国最大的芯片制造商Newport Wafer Fab（以下简称“NWF”）母公司 NEPTUNE 6 LIMITED 全部的100%股权]]></content>
     </entry>
 </feed>
