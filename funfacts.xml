@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-08-16T13:30:56.795Z</updated>
+    <updated>2021-08-16T15:54:23.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Marble_Arch_Mound</id>
         <link href="https://en.wikipedia.org/wiki/Marble_Arch_Mound"/>
         <updated>2021-08-16T13:30:34.574Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Marble_Arch_Mound" title="Marble Arch Mound">Marble Arch Mound</a></b> <i>(pictured)</i> in central London looks like the hill in <i><a href="/wiki/Teletubbies" title="Teletubbies">Teletubbies</a></i>?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Marble_Arch_Mound" title="Marble Arch Mound">Marble Arch Mound</a></b> <i>(pictured)</i> in central London has been compared to the hill in <i><a href="/wiki/Teletubbies" title="Teletubbies">Teletubbies</a></i>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Digimon Adventure]]></title>
