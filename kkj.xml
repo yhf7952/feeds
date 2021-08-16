@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-16T09:49:22.479Z</updated>
+    <updated>2021-08-16T10:45:43.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -38,20 +38,20 @@
 此前的8月3日至8月12日，商丘已经连续10天未出现]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新疆新增3名感染者：病毒来源成谜]]></title>
-        <id>https://news.mydrivers.com/1/776/776461.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776461.htm"/>
-        <updated>2021-08-15T22:42:12.671Z</updated>
-        <content type="html"><![CDATA[8月15日，新疆博州阿拉山口市口岸地区在三天一次的常规核酸检测中，发现3人结果呈阳性，经专家诊断均为新冠肺炎无症状感染者，转运博州定点医院进行隔离医学观察。
-当地立即启动应急响应，排查]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[国内赴美留学机场排长队 十万票价再现：这现场厉害了！]]></title>
         <id>https://news.mydrivers.com/1/776/776611.htm</id>
         <link href="https://news.mydrivers.com/1/776/776611.htm"/>
         <updated>2021-08-16T09:49:21.712Z</updated>
         <content type="html"><![CDATA[近日，一张照片在网间广为流传，说的是美国开放留学生入境后，中国留学生在上海浦东机场排队值机去美国，有的航班等待值机和送行的队伍长达千米。
 自8月1日起，美国也放开了留学生赴美的限制，]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新疆新增3名感染者：病毒来源成谜]]></title>
+        <id>https://news.mydrivers.com/1/776/776461.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776461.htm"/>
+        <updated>2021-08-15T22:42:12.671Z</updated>
+        <content type="html"><![CDATA[8月15日，新疆博州阿拉山口市口岸地区在三天一次的常规核酸检测中，发现3人结果呈阳性，经专家诊断均为新冠肺炎无症状感染者，转运博州定点医院进行隔离医学观察。
+当地立即启动应急响应，排查]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[好莱坞大烂片回炉重造后口碑爆炸：豆瓣8.1！导演送彩蛋]]></title>
