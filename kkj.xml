@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-17T09:49:22.719Z</updated>
+    <updated>2021-08-17T10:44:44.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -54,14 +54,6 @@
 8月16日，人社部]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吃货当心了！广东8箱进口榴莲阳性 已流向市场]]></title>
-        <id>https://news.mydrivers.com/1/776/776665.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776665.htm"/>
-        <updated>2021-08-17T08:49:11.928Z</updated>
-        <content type="html"><![CDATA[对于吃货们来说，进口榴莲要当心了。
-据极目新闻报道称，广东省江门市蓬江区荷塘镇有8箱进口榴莲在抽检中被测出核酸检测阳性，且已流向市场。荷塘镇政府表示，确有其事，目前已对榴莲去向进行追]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[吴亦凡被批捕后 都美竹做法绝了]]></title>
         <id>https://news.mydrivers.com/1/776/776750.htm</id>
         <link href="https://news.mydrivers.com/1/776/776750.htm"/>
@@ -83,5 +75,13 @@
         <link href="https://news.mydrivers.com/1/776/776771.htm"/>
         <updated>2021-08-17T09:49:22.049Z</updated>
         <content type="html"><![CDATA[8月16日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例42例，其中境外输入病例36例（云南15例，广东9例，上海7例，广西2例，山东1例，四川1例，陕西1例），本土病例]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恒大地产震动！许家印卸任 股价重挫]]></title>
+        <id>https://news.mydrivers.com/1/776/776840.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776840.htm"/>
+        <updated>2021-08-17T10:44:41.353Z</updated>
+        <content type="html"><![CDATA[8月17日，国家企业信用信息公示系统显示，恒大地产集团有限公司今日变更董事长、总经理、法人代表。
+变更后，许家印卸任恒大地产董事长，柯鹏卸任总经理、法人代表等职位，赵长龙同时接任董事长]]></content>
     </entry>
 </feed>
