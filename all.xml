@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yhf7952.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-17T22:42:39.459Z</updated>
+    <updated>2021-08-17T23:41:54.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[32nd anniversary of the 1989 Tiananmen Square protests (Wikipedia — did you know?)]]></title>
@@ -118,14 +118,6 @@
 日前有媒体报道称，艺人郑恺经营的连锁火锅店“火凤祥”售卖变质食材、生菜]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴亦凡被批捕后 都美竹做法绝了 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/776/776750.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776750.htm"/>
-        <updated>2021-08-17T01:39:03.297Z</updated>
-        <content type="html"><![CDATA[日前，@平安北京朝阳 官方发布消息表示：2021年8月16日，北京市朝阳区人民检察院经依法审查，对犯罪嫌疑人吴某犯，以涉嫌强奸罪批准逮捕。
-作为前娱乐圈的顶流，从原本的风光无限，到如今的锒铛]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[17岁少年买不到回国机票攻击南航系统 结果惨了 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/776/776754.htm</id>
         <link href="https://news.mydrivers.com/1/776/776754.htm"/>
@@ -139,5 +131,13 @@
         <link href="https://news.mydrivers.com/1/776/776771.htm"/>
         <updated>2021-08-17T09:49:22.049Z</updated>
         <content type="html"><![CDATA[8月16日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例42例，其中境外输入病例36例（云南15例，广东9例，上海7例，广西2例，山东1例，四川1例，陕西1例），本土病例]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恒大地产震动！许家印卸任 股价重挫 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/776/776840.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776840.htm"/>
+        <updated>2021-08-17T23:41:52.219Z</updated>
+        <content type="html"><![CDATA[8月17日，国家企业信用信息公示系统显示，恒大地产集团有限公司今日变更董事长、总经理、法人代表。
+变更后，许家印卸任恒大地产董事长，柯鹏卸任总经理、法人代表等职位，赵长龙同时接任董事长]]></content>
     </entry>
 </feed>
