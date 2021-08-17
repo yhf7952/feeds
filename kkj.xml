@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-08-17T04:53:40.794Z</updated>
+    <updated>2021-08-17T05:40:38.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -61,20 +61,20 @@
 此前，长安]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17岁少年买不到回国机票攻击南航系统 结果惨了]]></title>
-        <id>https://news.mydrivers.com/1/776/776754.htm</id>
-        <link href="https://news.mydrivers.com/1/776/776754.htm"/>
-        <updated>2021-08-17T01:39:03.268Z</updated>
-        <content type="html"><![CDATA[15岁自学计算机技术，并且也有一定的技术水平，本来拥有大好的前途光明，但却因为自己的一时糊涂，做出违法的事情锒铛入狱，着实令人唏嘘不已。
-据广州日报报道，现年17岁的小陈，上完小学三年]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[码农属于新生代农民工上热搜  网友：官宣了 没毛病]]></title>
         <id>https://news.mydrivers.com/1/776/776784.htm</id>
         <link href="https://news.mydrivers.com/1/776/776784.htm"/>
         <updated>2021-08-17T04:53:38.130Z</updated>
         <content type="html"><![CDATA[以往，很多程序员调侃自己为“码农”。而昨天人社部的一份报告，则等于“官宣”了——码农属于新生代农民工。随后，相关话题迅速登上微博热搜。
 8月16日，人社部]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17岁少年买不到回国机票攻击南航系统 结果惨了]]></title>
+        <id>https://news.mydrivers.com/1/776/776754.htm</id>
+        <link href="https://news.mydrivers.com/1/776/776754.htm"/>
+        <updated>2021-08-17T01:39:03.268Z</updated>
+        <content type="html"><![CDATA[15岁自学计算机技术，并且也有一定的技术水平，本来拥有大好的前途光明，但却因为自己的一时糊涂，做出违法的事情锒铛入狱，着实令人唏嘘不已。
+据广州日报报道，现年17岁的小陈，上完小学三年]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[不再给苹果打工 中国电子大厂研发1亿像素镜头：主攻国产]]></title>
