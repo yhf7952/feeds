@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mydrivers.com/</id>
     <title>快科技</title>
-    <updated>2021-10-06T01:43:32.614Z</updated>
+    <updated>2021-10-06T04:52:30.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mydrivers.com/favicon.ico</icon>
     <entry>
@@ -12,6 +12,15 @@
         <updated>2021-10-06T01:43:29.891Z</updated>
         <content type="html"><![CDATA[10月4日，我国本土确诊病例在近一个月以来首次单日新增清零，但在新疆，突如其来的反复，让众多旅游的游客陷入了尴尬，一对小夫妻原本的8天行程，秒变1日游。
 来自浙江杭州的小高和她老公在新疆]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本发现能传染人类的新病毒：高烧39度]]></title>
+        <id>https://news.mydrivers.com/1/787/787390.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787390.htm"/>
+        <updated>2021-10-06T04:52:29.508Z</updated>
+        <content type="html"><![CDATA[新冠病毒不知道何时才能消灭，而新的、危险的病毒还在不断出现。
+近日，日本科学家发现了一种此前未知、可传染给人类的新病毒，会导致人出现高达39度的高烧，并导致血小板和白细胞数量减少
+部]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[惊艳了大唐 这首网红诗刷屏！是杜甫写的？专家回应]]></title>
@@ -31,30 +40,6 @@
 视频中来看，车辆刚停下不久，驾驶侧的]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[性能大增！Android 12正式发布：首批支持机型公布]]></title>
-        <id>https://news.mydrivers.com/1/787/787310.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787310.htm"/>
-        <updated>2021-10-06T01:43:29.895Z</updated>
-        <content type="html"><![CDATA[今天凌晨，谷歌宣布，已经将Android 12源代码推送到Android 开源项目(AOSP)，这也意味着Android 12正式发布。
-接下来的几周内到今年晚些之后，从Pixel开始，三星、一加、OPPO、realme、Tecno（]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官方简体中文！Win11 ISO镜像直接下载：告别32位]]></title>
-        <id>https://news.mydrivers.com/1/787/787309.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787309.htm"/>
-        <updated>2021-10-06T01:43:29.896Z</updated>
-        <content type="html"><![CDATA[即日起，Windows 11正式版开始推送更新了！
-不过，由于全球Windows PC设备、用户甚多，Windows 11又对硬件有了新的要求，推送也会分阶段、分批次进行，用户最迟可能要到明年年中才能收到推送。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[影史国庆档票房冠军！陈凯歌人民日报发文谈《长津湖》创作]]></title>
-        <id>https://news.mydrivers.com/1/787/787318.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787318.htm"/>
-        <updated>2021-10-06T01:43:29.897Z</updated>
-        <content type="html"><![CDATA[国庆假期，你看《长津湖》了吗？
-据@猫眼电影 消息，猫眼专业版数据见证，截止10月5日10时32分，电影《长津湖》档期票房超19.56亿，正式超过《电影我和我的祖国》档期票房成绩，成影史国庆档票]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《大话西游》景区奇观：紫霞仙子泛滥成灾]]></title>
         <id>https://news.mydrivers.com/1/787/787323.htm</id>
         <link href="https://news.mydrivers.com/1/787/787323.htm"/>
@@ -63,28 +48,45 @@
 国庆期间，在宁夏银川镇北堡西部影城，游客纷纷装扮成“紫霞仙子”，拍照留念，结果紫霞仙子泛滥成灾，不少游客]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[景区山顶拥堵：游客套塑料袋御寒 风中排队超2小时]]></title>
-        <id>https://news.mydrivers.com/1/787/787305.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787305.htm"/>
-        <updated>2021-10-06T01:43:29.927Z</updated>
-        <content type="html"><![CDATA[好不容易等来十一长假，可以尽情出游了，但到处都是人从众……
-10月3日，在陕西宝鸡太白山景区，因天气骤变， 数百名游客滞留堵在海拔超过3500米的山顶。
-据当地媒体和游客描述，]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11今日正式推送！四大变化值得你拥有]]></title>
-        <id>https://news.mydrivers.com/1/787/787307.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787307.htm"/>
-        <updated>2021-10-06T01:43:29.928Z</updated>
-        <content type="html"><![CDATA[微软今日宣布，正式开始推送Windows 11，符合条件的Windows 10 PC可以免费升级，同时预装Windows 11的全新PC也会相继上市。
-需要注意的是，Windows 11的推送是分阶段陆续进行的，不是所有人都会]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[喝百草枯女孩抢救四天情况恶化：百草枯为何这么毒？]]></title>
         <id>https://news.mydrivers.com/1/787/787365.htm</id>
         <link href="https://news.mydrivers.com/1/787/787365.htm"/>
         <updated>2021-10-06T01:43:29.929Z</updated>
         <content type="html"><![CDATA[“13岁女孩喝百草枯”一事，最近一直引发网友关注，女孩的身体健康状态也一直牵动着众多网友的心。
 据@大参考 消息，今天（10月5日）凌晨两点，女孩的情况突然恶化，家属谈及这一情况]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子高速行驶中闻到汽油味：一个果断举动救下一家6口]]></title>
+        <id>https://news.mydrivers.com/1/787/787342.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787342.htm"/>
+        <updated>2021-10-06T04:52:29.547Z</updated>
+        <content type="html"><![CDATA[“事后想想有些后怕，但为了救人没多想就做了。”蔡先生说。
+据媒体报道，10月4日，湖北仙桃，蔡先生行驶时发现前车汽油泄露，果断将其逼停救下一家6口。
+“快下来，车子漏油，]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洛阳气温骤降骑车小伙披棉被 南方网友看不下去了]]></title>
+        <id>https://news.mydrivers.com/1/787/787360.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787360.htm"/>
+        <updated>2021-10-06T04:52:29.560Z</updated>
+        <content type="html"><![CDATA[这个国庆假期，北方不少地区秋雨绵绵，气温不断创新低。
+10月5日，河南洛阳，张女士早上开车出门喝汤，路过开元大桥时，看到俩小伙披着棉被骑车出行。
+张女士称，最近洛阳降温，很冷，当天温度]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《长津湖》票房破23亿！6天创造一个奇迹]]></title>
+        <id>https://news.mydrivers.com/1/787/787328.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787328.htm"/>
+        <updated>2021-10-06T04:52:29.567Z</updated>
+        <content type="html"><![CDATA[据最新数据，截至10月5日15时08分，由徐克、陈凯歌、林超贤三位著名导演执导，吴京等主演的战争电影《长津湖》上映6天，总票房突破23亿元。
+自上映以来，《长津湖》一路高歌猛进，很快超越《我]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国庆假期山顶撑满同款帐篷：女子半夜迷路 看花眼了]]></title>
+        <id>https://news.mydrivers.com/1/787/787320.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787320.htm"/>
+        <updated>2021-10-06T04:52:29.570Z</updated>
+        <content type="html"><![CDATA[这个国庆假期，报复性补偿式出游，让各大景区再一次开启人从众模式。近日，一景区山顶撑满同款帐篷，女子半夜上厕所后直接迷路。
+10月2日，江西萍乡武功山景区的游客在山顶上撑满帐篷，游客住在]]></content>
     </entry>
 </feed>
