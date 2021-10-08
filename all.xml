@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yhf7952.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-08T01:48:00.402Z</updated>
+    <updated>2021-10-08T04:52:42.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Karl-Heinz Petzinka (Wikipedia — did you know?)]]></title>
@@ -61,6 +61,14 @@
         <content type="html"><![CDATA[... that <a href="/wiki/Richard_Osman" title="Richard Osman">Richard Osman</a> wrote that <b><a href="/wiki/Squares_(crisps)" title="Squares (crisps)">Squares</a></b> were invented because "scientists were concerned that children weren't hurting the roofs of their mouths as often as they should be"?]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[美国发狠 要求芯片大厂交出机密数据 台积电硬刚回去 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/787/787522.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787522.htm"/>
+        <updated>2021-10-08T01:47:59.697Z</updated>
+        <content type="html"><![CDATA[由于全球半导体产能紧张，各种芯片缺货、涨价已经持续了一年多时间了，导致多个产业大受影响，特别是消费电子、汽车等，美国现在开始下手整治，对台积电、三星等几家芯片大厂采取行动。
+据报道]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一张图告诉你山西的雨有多大！触目惊心 (快科技)]]></title>
         <id>https://news.mydrivers.com/1/787/787469.htm</id>
         <link href="https://news.mydrivers.com/1/787/787469.htm"/>
@@ -77,38 +85,12 @@
 据媒体报道，来自江苏南京的徐先生，就因为长时间熬夜，每天几乎]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国发狠 要求芯片大厂交出机密数据 台积电硬刚回去 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/787/787522.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787522.htm"/>
-        <updated>2021-10-08T01:47:59.697Z</updated>
-        <content type="html"><![CDATA[由于全球半导体产能紧张，各种芯片缺货、涨价已经持续了一年多时间了，导致多个产业大受影响，特别是消费电子、汽车等，美国现在开始下手整治，对台积电、三星等几家芯片大厂采取行动。
-据报道]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提醒：2021年假期全部结束！2022元旦、春节倒计时了 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/787/787459.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787459.htm"/>
-        <updated>2021-10-08T01:47:59.698Z</updated>
-        <content type="html"><![CDATA[十一“黄金周”已经到了最后一天，媒体查证后发现，国庆长假的结束也意味着2021年假期全部结束。
-日历显示，距离2022年元旦还有86天。
-与此同时，提醒大家注意的是，本周六（10月9日]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男子拍百张照片举报应急车道！假期一人“业绩”破2万 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/787/787451.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787451.htm"/>
-        <updated>2021-10-07T04:52:59.158Z</updated>
-        <content type="html"><![CDATA[国庆假期因为人多车多，高速上难免会出现事故和拥堵情况。不过这种时候，也是司机素质的“照妖镜”。
-一些“老司机”艺高人胆大，在其他车都在行车道老老实实排队等待通行]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国庆返程网友争晒后备箱：这种“内卷”很有爱 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/787/787452.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787452.htm"/>
-        <updated>2021-10-07T04:52:59.158Z</updated>
-        <content type="html"><![CDATA[不知不觉，十一长假已经到了最后一天，“返程大军”悄然登场。
-实际上，从5号开始，主干公路进城方向、景区附近的交通流量已经开始上升。
-虽然拥堵让人有些焦虑，但网友们开晒后备箱]]></content>
+        <title type="html"><![CDATA[大型比特币矿场因噪音遭投诉：遭官方调查后杯具了 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/787/787474.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787474.htm"/>
+        <updated>2021-10-08T01:47:59.702Z</updated>
+        <content type="html"><![CDATA[对于开采虚拟货币的矿工来说，除了设备投入，最大的指出就是电费了。因此，不少人选择电价更低的地区放置设备挖矿，当然，也有人投机取巧。
+据外媒报道，一家在加拿大的比特币挖矿公司，为了逃]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021诺贝尔文学奖公布：日本巨匠万年陪跑 (快科技)]]></title>
@@ -127,12 +109,11 @@
 来自公安部交通管理局的消息，10月1日9时许，湖南永州道县交警在对一辆从道县驶往宁远方向的湘M33**1客运班车进行检查时，发现该车核载19]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大型比特币矿场因噪音遭投诉：遭官方调查后杯具了 (快科技)]]></title>
-        <id>https://news.mydrivers.com/1/787/787474.htm</id>
-        <link href="https://news.mydrivers.com/1/787/787474.htm"/>
-        <updated>2021-10-08T01:47:59.702Z</updated>
-        <content type="html"><![CDATA[对于开采虚拟货币的矿工来说，除了设备投入，最大的指出就是电费了。因此，不少人选择电价更低的地区放置设备挖矿，当然，也有人投机取巧。
-据外媒报道，一家在加拿大的比特币挖矿公司，为了逃]]></content>
+        <title type="html"><![CDATA[厉害了！我国无本土新增病例 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/787/787535.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787535.htm"/>
+        <updated>2021-10-08T04:52:42.131Z</updated>
+        <content type="html"><![CDATA[10月7日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例22例，均为境外输入病例（上海8例，云南6例，天津2例，山东2例，广东2例，河南1例，四川1例），含1例由无症状]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021年假期全部结束！直击最后一天返程高峰 (快科技)]]></title>
@@ -142,5 +123,22 @@
         <content type="html"><![CDATA[10月7日，国庆假期的最后一天，而过了这一天，2021年的法定节假日就全部结束了。
 下次放假是2022年元旦，也就是86天之后，还要三个月。
 按照惯例，今天各地将持续迎来返程高峰，机场、火车站、]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谨慎升级！Win11正式版首批用户回退Win10：原因尴尬无比 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/787/787494.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787494.htm"/>
+        <updated>2021-10-08T04:52:42.137Z</updated>
+        <content type="html"><![CDATA[你升级Win11了吗？
+随着首个正式版的推出，相信不少用户已经在检查更新页面看到可以获取升级或者当前PC不满足要求的提示。
+尽管有不少Insider会员测试了一段时间，但Win11正式版依旧出现一些问]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度一飞机被卡天桥下动弹不得！事发瞬间曝光：路人笑喷 (快科技)]]></title>
+        <id>https://news.mydrivers.com/1/787/787492.htm</id>
+        <link href="https://news.mydrivers.com/1/787/787492.htm"/>
+        <updated>2021-10-08T04:52:42.140Z</updated>
+        <content type="html"><![CDATA[近日，一则“印度一飞机被卡天桥动弹不得”的视频网上流传。当时一架大型客机的半个机身已经通过了天桥，但是机身中间却被天桥卡住，在路中间动弹不得，引发网友热议。
+据媒体报道，]]></content>
     </entry>
 </feed>
